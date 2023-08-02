@@ -3,5 +3,8 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
+24sn-intro-vidmain-v3.ts
+#EXTINF:-1,
+#EXTIMG:24sn-tvbg.png
 https://stream.zeno.fm/2hyu6hv2bzzuv
 #EXT-X-ENDLIST

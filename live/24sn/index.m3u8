@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
 senateph.m3u8
@@ -12,5 +10,7 @@ kamara.m3u8
 rappler.m3u8
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
+abcnewslive.m3u8
+#EXTINF:-1,
+#EXTIMG:24sn-tvbg.png
 radio.m3u8
-#EXT-X-ENDLIST
