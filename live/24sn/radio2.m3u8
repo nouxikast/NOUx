@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1,
+#EXTIMG:24sn-tvbg.png
+24sn-intro-vidmain-v3.ts
+#EXTINF:-1,
+#EXTIMG:24sn-tvbg.png
+https://ytlive.phcnetwork.workers.dev/stream/DZRHNewsTelevision/master.m3u8
+#EXT-X-ENDLIST
