@@ -3,13 +3,13 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
-https://ytlive.phcnetwork.workers.dev/stream/Rappler/master.m3u8
+rappler.m3u8
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
-https://ytlive.phcnetwork.workers.dev/stream/senateofthephilippines/master.m3u8
+senateph.m3u8
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
-https://ytlive.phcnetwork.workers.dev/stream/HouseofRepresentativesPH/master.m3u8
+kamara.m3u8
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
 https://stream.zeno.fm/2hyu6hv2bzzuv
