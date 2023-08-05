@@ -1,16 +1,4 @@
 #EXTM3U
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
-senateph.m3u
-#EXTINF:-1,
-#EXTIMG:24sn-tvbg.png
-kamara.m3u
-#EXTINF:-1,
-#EXTIMG:24sn-tvbg.png
-rappler.m3u
-#EXTINF:-1,
-#EXTIMG:24sn-tvbg.png
-abcnewslive.m3u
-#EXTINF:-1,
-#EXTIMG:24sn-tvbg.png
-radio.m3u8
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
