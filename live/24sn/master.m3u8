@@ -3,5 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
-https://github.com/nouxikast/NOUxIP/raw/main/live/24sn/main.m3u8
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
 #EXT-X-ENDLIST
