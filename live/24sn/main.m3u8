@@ -1,7 +1,4 @@
 #EXTM3U
 #EXTINF:-1,
 #EXTIMG:24sn-tvbg.png
-https://archive.org/download/24sn-net/24sn-intro-vidmain-v3.ts
-#EXTINF:-1,
-#EXTIMG:24sn-tvbg.png
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
