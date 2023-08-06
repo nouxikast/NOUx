@@ -1,0 +1,88 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/startv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ye-en/osn.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz"
+
+#EXTINF:-1 tvg-id="()" tvg-name="NOUx",NOUx
+https://archive.org/download/nou-mainident/NOU-mainident.mp4
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/nouxikast/24SN/raw/gh-pages/wp-content/uploads/24sn-mini-i1.png" group-title="News",24SN
+http://cmmnet-tls-nouxlive.bot.nu/live/noux/24sn-global/index.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.ibb.co/44P5qnP/37K0AZX.png" group-title="News",USA Today Network
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.ibb.co/VpccLmm/vOd437K.png" group-title="Sports",USA Today Sports
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Sportswire.m3u8
+
+#EXTINF:-1 tvg-logo="https://nouxikast.github.io/feeds/noux/prts1-logo.png" group-title="News",PRTS1 - Senate
+https://ytlive.phcnetwork.workers.dev/stream/senateofthephilippines/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://nouxikast.github.io/feeds/noux/prts2-logo.png" group-title="News",PRTS2 - Kamara
+https://ytlive.phcnetwork.workers.dev/stream/HouseofRepresentativesPH/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DZRH_News_Television_Logo_%282021%29.jpg/250px-DZRH_News_Television_Logo_%282021%29.jpg" group-title="News",DZRH TV
+https://ytlive.phcnetwork.workers.dev/stream/DZRHNewsTelevision/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Radio_Mindanao_Network_%282014%29.png/220px-Radio_Mindanao_Network_%282014%29.png" group-title="News",RMN TV
+https://ytlive.phcnetwork.workers.dev/stream/dzxl5587/master.m3u8
+
+#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="Free to Air",PTV
+https://ytlive.phcnetwork.workers.dev/stream/PTVPhilippines/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Rappler_logo.svg/200px-Rappler_logo.svg.png" group-title="News",Rappler Live
+https://ytlive.phcnetwork.workers.dev/stream/Rappler/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Astro_Awani_501.png/220px-Astro_Awani_501.png" tvg-name="Astro Awani" group-title="News",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/250px-TRT_World.svg.png" group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="News",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/The_Blaze_%28Current%29.png/revision/latest/scale-to-width-down/250?cb=20201110034057" group-title="News",TheBlaze TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-name="Free Speech TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_of_Free_Speech_TV.png/200px-Logo_of_Free_Speech_TV.png" group-title="News",Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+
+#EXTINF:-1 tvg-id="TYTNetwork.us" tvg-name="TYT Network" tvg-logo="https://i.ibb.co/Qn8WXNs/TYT-Network-white-variant.png" group-title="News",TYT Network
+https://tyt-samsungus.amagi.tv/playlist.m3u8	
+
+#EXTINF:-1 tvg-logo="https://salemnewschannel.com/wp-content/uploads/2022/01/Logo-White.png" group-title="News",Salem News Channel
+https://snc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/200px-C-SPAN_Logo_%282019%29.svg.png" group-title="International",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/200px-C-SPAN_Logo_%282019%29.svg.png" group-title="International",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/200px-C-SPAN_Logo_%282019%29.svg.png" group-title="International",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reuters_Logo.svg/220px-Reuters_Logo.svg.png" group-title="News",Reuters Channel
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Local/Regional",CCTN Cebu
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-id="MTV00s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00s
+http://195.24.89.82/VH1_SD/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="Music",MTV Global (UK)
+http://195.24.89.82/MTV_SD/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Life_TV_Logo.jpg/revision/latest?cb=20171225062543" group-title="Religious",Life TV Asia
+https://ytlive.phcnetwork.workers.dev/stream/LIFETVASIAOFFICIAL/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Maharlika_Pilipinas_Basketball_League_2022.png/200px-Maharlika_Pilipinas_Basketball_League_2022.png" group-title="Sports",MPBL (Basketball)
+https://ytlive.phcnetwork.workers.dev/stream/MPBLOfficial/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgJsMHtXcs-Et2_SpS0-fXlMioDDC4ZTlbhcK3saO9zXFu3Ylyicj31mM0ZbM-sRponKBsM24lhQQ6I1Bly9uRHLJKbJ7o-naoa7blbiXlcZK1FZKO2ADc9MDQw2GVA8AEp5eDBg6Gmjev7DnHBp8aJnXoyAGiTWPUiLuLlbotFUOUtP7GWdOMNfaGLSDS3=s644" group-title="Sports",iSports - PFL (Football)
+https://ytlive.phcnetwork.workers.dev/stream/PhilippinesFootballLeague/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ytimg.com/vi/ng7fYoxxEss/maxresdefault.jpg" group-title="Sports",Horse Racing Channel (MetroTurf)
+https://ytlive.phcnetwork.workers.dev/stream/MetroTurfRacingTV/master.m3u8
