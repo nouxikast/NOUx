@@ -201,6 +201,9 @@ https://de3.amfmph.com:8546/high
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/1/12/97.7_Radyo_Bandera_Sweet_FM_Dumaguete.jpg/revision/latest/scale-to-width-down/250?cb=20210527084413" group-title="PH Radio" radio="true",Radyo Bandera Sweet FM
 https://us1.amfmph.com/ssl/sweetfmbacolod?mp=/stream
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt82Xtd/newslinecl-removebg-preview-1-e1688736520884.png" group-title="PH Radio" radio="true",Newsline Central Luzon 103.1
+https://stream.zeno.fm/da8rp3mz8vzuv
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/230px-TeleRadyo_Logo.svg.png" group-title="PH Radio" radio="true",TeleRadyo (audio)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DZMMAAC_48.aac
 
