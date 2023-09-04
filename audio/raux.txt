@@ -316,7 +316,7 @@ https://edge.mixlr.com/channel/lldmm
 https://cast3.my-control-panel.com/proxy/idmzsayawpinoy/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Rakista_Radio.png/revision/latest/scale-to-width-down/300?cb=20230805115106" group-title="PH Radio" radio="true",Rakista Radio
-https://securestreams7.autopo.st/?uri=http://206.190.138.196:8010/listen128.mp3
+https://securestreams7.autopo.st/?uri=http://206.190.138.196:8010/listen.mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CK7SR3Q/pinoyrapradio.jpg" group-title="PH Radio" radio="true",Pinoy Rap Radio
 https://stream.zeno.fm/0cdp55nqam0uv
@@ -338,6 +338,12 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByVyVrc/voa-logo-1.png" group-title="International Radio" radio="true",VOA Radio
 https://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="International Radio" radio="true",CNN International (audio)
+https://tunein.streamguys1.com/CNNi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="International Radio" radio="true",CNN International (AAC audio)
+https://live.amperwave.net/manifest/audacy-cnniaac-imc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2Q1gCR/5f3b43f0529439aac0159456.png" group-title="International Radio" radio="true",Fox News Radio
 https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc
