@@ -269,4 +269,4 @@ https://tunein.streamguys1.com/pv3-randy
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbV6Qww/wnn-social0.png" group-title="International Radio" radio="true",WNN / TALKAST (Progressive Talk)
 https://stream.zeno.fm/6lx1lnjwvvsuv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwCXp9h/sky-news-w1.png" group-title="International Radio" radio="true",Sky News Radio Australia
-http://ais-arn.streamguys1.com/au_033_icy
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
