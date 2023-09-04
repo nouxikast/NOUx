@@ -101,7 +101,7 @@ https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dwbr.mp3
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Eaglefm.jpg" group-title="PH Radio" radio="true",Eagle FM 95.5
 https://s5.radio.co/s49bbdfa2a/listen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/1035KLite_newlogo.svg/320px-1035KLite_newlogo.svg.png" group-title="PH Radio" radio="true",103.5 K-Lite
-http://103.36.17.18:8000/stream
+https://securestreams7.autopo.st/?uri=http://103.36.17.18:8000/stream
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News National
 https://securestreams7.autopo.st/?uri=http://makatistream.brigadanews.ph/stream
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Batangas
