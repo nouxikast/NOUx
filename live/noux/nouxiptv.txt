@@ -168,21 +168,6 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-logo="https://i.ibb.co/rtfPcv3/mycinemaeurope.jpg" group-title="Movies",MyCinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-name="Mediacorp Ch.5" tvg-id="Channel5.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/250px-Mediacorp_Channel_5_2023.svg.png" group-title="International",Mediacorp Ch.5
-https://fotvnet.serv00.net/player/ktpremium.php?channel=25833
-
-#EXTINF:-1 tvg-name="Mediacorp Ch.8" tvg-id="Channel8.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/250px-Mediacorp_Channel_8_2023.svg.png" group-title="International",Mediacorp Ch.8
-https://fotvnet.serv00.net/player/ktpremium.php?channel=25834
-
-#EXTINF:-1 tvg-name="Mediacorp Ch.U" tvg-id="ChannelU.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/250px-Mediacorp_Channel_U_2023.svg.png" group-title="International",Mediacorp Ch.U
-https://fotvnet.serv00.net/player/ktpremium.php?channel=25835
-
-#EXTINF:-1 tvg-name="Suria" tvg-id="Suria.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/250px-Mediacorp_Suria_2023.svg.png" group-title="International",Mediacorp Suria
-http://198.16.100.90:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
-
-#EXTINF:-1 tvg-name="Vasantham" tvg-id="Vasantham.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/220px-Mediacorp_Vasantham_2023.svg.png" group-title="International",Mediacorp Vasantham
-http://198.16.100.90:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="Movies",MovieSphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 
