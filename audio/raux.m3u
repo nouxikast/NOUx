@@ -396,7 +396,7 @@ https://live.amperwave.net/direct/goodkarma-wepnamaac-ibc
 #EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="International Radio" radio="true",WFAS AM1230 | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/abdffc4c-9543-43e8-a369-30240124e5db?ops=gravity(%22center%22),contain(500,175),quality(65)" group-title="International Radio" radio="true",WWRL - BIN New York (AM1600) | New York
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23848/images/logod.jpg" group-title="International Radio" radio="true",WWRL - BIN New York (AM1600) | New York
 http://stream.revma.ihrhls.com/zc8772
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WNYC-Logo.svg/220px-WNYC-Logo.svg.png" group-title="International Radio" radio="true",WNYC (93.9FM) | New York
@@ -429,7 +429,7 @@ https://stream.revma.ihrhls.com/zc1477
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WblsFMlogo.png/220px-WblsFMlogo.png" group-title="International Radio" radio="true",WBLS 107.5 | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/189.png" group-title="International Radio" radio="true",AM570 LA Sports | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6021a6635a4953bcc000df01" group-title="International Radio" radio="true",AM570 LA Sports | Los Angeles
 https://stream.revma.ihrhls.com/zc189
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/177.png" group-title="International Radio" radio="true",KFI AM640 | Los Angeles
@@ -447,7 +447,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC.aac
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/197.png" group-title="International Radio" radio="true",KEIB 1150 The Patriot | Los Angeles
 https://stream.revma.ihrhls.com/zc197
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/181.png" group-title="International Radio" radio="true",Real 92.3 | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/b7db3a22-d9cb-43dc-9df6-6bb71cc6427b.png" group-title="International Radio" radio="true",Real 92.3 | Los Angeles
 https://stream.revma.ihrhls.com/zc181
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/201.png" group-title="International Radio" radio="true",ALT 98.7 | Los Angeles
@@ -461,9 +461,6 @@ https://stream.revma.ihrhls.com/zc193
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/173.png" group-title="International Radio" radio="true",104.3 MYfm | Los Angeles
 https://stream.revma.ihrhls.com/zc173
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KABC2016.png/220px-KABC2016.png" group-title="International Radio" radio="true",KABC AM790 | Los Angeles
-https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/64669b65c169bd5842517d4e" group-title="International Radio" radio="true",Pop 101.9 | Hawaii
 https://stream.revma.ihrhls.com/zc8470
