@@ -444,7 +444,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/KRLA_AM870TheAnswer_logo.png/150px-KRLA_AM870TheAnswer_logo.png" group-title="International Radio" radio="true",KRLA AM870 The Answer | Los Angeles
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/197.png" group-title="International Radio" radio="true",KEIB 1150 The Patriot | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/197.png" group-title="International Radio" radio="true",KEIB AM1150 The Patriot | Los Angeles
 https://stream.revma.ihrhls.com/zc197
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/b7db3a22-d9cb-43dc-9df6-6bb71cc6427b.png" group-title="International Radio" radio="true",Real 92.3 | Los Angeles
