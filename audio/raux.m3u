@@ -375,6 +375,9 @@ http://stream.revma.ihrhls.com/zc4802
 #EXTINF:-1 tvg-logo="https://media.npr.org/chrome_svg/npr-logo.svg" group-title="International Radio" radio="true",NPR
 https://npr-ice.streamguys1.com/live.aac
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb56ce92bde4af7401a1a9" group-title="International Radio" radio="true",Black Information Network
+https://stream.revma.ihrhls.com/zc8666
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/New_WOR_Radio_logo_December_2013.jpg/200px-New_WOR_Radio_logo_December_2013.jpg" group-title="International Radio" radio="true",710 WOR | New York
 http://stream.revma.ihrhls.com/zc5874
 
@@ -393,7 +396,7 @@ https://live.amperwave.net/direct/goodkarma-wepnamaac-ibc
 #EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="International Radio" radio="true",WFAS AM1230 | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/abdffc4c-9543-43e8-a369-30240124e5db?ops=gravity(%22center%22),contain(500,175),quality(65)" group-title="International Radio" radio="true",WWRL - BIN 1600 | New York
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/abdffc4c-9543-43e8-a369-30240124e5db?ops=gravity(%22center%22),contain(500,175),quality(65)" group-title="International Radio" radio="true",WWRL - BIN New York (AM1600) | New York
 http://stream.revma.ihrhls.com/zc8772
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WNYC-Logo.svg/220px-WNYC-Logo.svg.png" group-title="International Radio" radio="true",WNYC (93.9FM) | New York
