@@ -519,10 +519,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC.aac
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/865.png" group-title="US Radio" radio="true",V103 (102.7FM) | Chicago
 https://stream.revma.ihrhls.com/zc865
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/849.png" group-title="US Radio" radio="true",103.5 Kiss FM | Chicago
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/9910fd9c-5656-4c73-bda8-0649474337f7" group-title="US Radio" radio="true",103.5 Kiss FM | Chicago
 https://stream.revma.ihrhls.com/zc849
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/841.png" group-title="US Radio" radio="true",WGCI 107.5 | Chicago
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/580d59cf-bf13-4c07-a526-ec53e059384e.png" group-title="US Radio" radio="true",WGCI 107.5 | Chicago
 https://stream.revma.ihrhls.com/zc841
 
 #EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="US Radio" radio="true",The Answer AM690/FM94.3 | Hawaii
