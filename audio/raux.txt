@@ -501,7 +501,7 @@ https://live.amperwave.net/direct/goodkarma-wmvpamaac-ibc1
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/845.png" group-title="US Radio" radio="true",Inspiration 1390AM | Chicago
 https://stream.revma.ihrhls.com/zc845
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/853.png" group-title="US Radio" radio="true",93.9 Lite FM | Chicago
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/61c2a32924639eb52ebe097c" group-title="US Radio" radio="true",93.9 Lite FM | Chicago
 https://stream.revma.ihrhls.com/zc853
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/WLS-FM_logo.svg/200px-WLS-FM_logo.svg.png" group-title="US Radio" radio="true",WLS 94.7 FM | Chicago
