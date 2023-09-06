@@ -378,136 +378,181 @@ https://tunein.streamguys1.com/CNNi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="International Radio" radio="true",CNN International (AAC audio)
 https://live.amperwave.net/manifest/audacy-cnniaac-imc
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M2Q1gCR/5f3b43f0529439aac0159456.png" group-title="International Radio" radio="true",Fox News Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2Q1gCR/5f3b43f0529439aac0159456.png" group-title="US Radio" radio="true",Fox News Radio
 https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxnNTNc/4732.png" group-title="International Radio" radio="true",Fox Sports Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxnNTNc/4732.png" group-title="US Radio" radio="true",Fox Sports Radio
 http://stream.revma.ihrhls.com/zc4732
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25876g.png" group-title="International Radio" radio="true",ESPN Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25876g.png" group-title="US Radio" radio="true",ESPN Radio
 https://live.wostreaming.net/direct/espn-network-48
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="International Radio" radio="true",Hit Nation
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation
 https://stream.revma.ihrhls.com/zc4422
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="International Radio" radio="true",American Top 40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="US Radio" radio="true",American Top 40
 http://stream.revma.ihrhls.com/zc4802
 
-#EXTINF:-1 tvg-logo="https://media.npr.org/chrome_svg/npr-logo.svg" group-title="International Radio" radio="true",NPR
+#EXTINF:-1 tvg-logo="https://media.npr.org/chrome_svg/npr-logo.svg" group-title="US Radio" radio="true",NPR
 https://npr-ice.streamguys1.com/live.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb56ce92bde4af7401a1a9" group-title="International Radio" radio="true",Black Information Network
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb56ce92bde4af7401a1a9" group-title="US Radio" radio="true",Black Information Network
 https://stream.revma.ihrhls.com/zc8666
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/New_WOR_Radio_logo_December_2013.jpg/200px-New_WOR_Radio_logo_December_2013.jpg" group-title="International Radio" radio="true",710 WOR | New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/New_WOR_Radio_logo_December_2013.jpg/200px-New_WOR_Radio_logo_December_2013.jpg" group-title="US Radio" radio="true",710 WOR | New York
 http://stream.revma.ihrhls.com/zc5874
 
-#EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2022/01/21131743/77-WABC-Gold_narrow_4.png" group-title="International Radio" radio="true",77WABC | New York
+#EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2022/01/21131743/77-WABC-Gold_narrow_4.png" group-title="US Radio" radio="true",77WABC | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WNYC-Logo.svg/220px-WNYC-Logo.svg.png" group-title="International Radio" radio="true",WNYC (AM820) | New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WNYC-Logo.svg/220px-WNYC-Logo.svg.png" group-title="US Radio" radio="true",WNYC (AM820) | New York
 https://am820.wnyc.org/wnycam-web
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Wnym2012logo.png/150px-Wnym2012logo.png" group-title="International Radio" radio="true",WNYM AM970 The Answer | New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Wnym2012logo.png/150px-Wnym2012logo.png" group-title="US Radio" radio="true",WNYM AM970 The Answer | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/espnradiostations/i/espnnewyork/radio/airstaff/ESPN1050dark_newyork_500.png" group-title="International Radio" radio="true",ESPN Radio NY (AM1050) | New York
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/espnradiostations/i/espnnewyork/radio/airstaff/ESPN1050dark_newyork_500.png" group-title="US Radio" radio="true",ESPN Radio NY (AM1050) | New York
 https://live.amperwave.net/direct/goodkarma-wepnamaac-ibc
 
-#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="International Radio" radio="true",WFAS AM1230 | New York
+#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="US Radio" radio="true",WFAS AM1230 | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23848/images/logod.jpg" group-title="International Radio" radio="true",WWRL - BIN New York (AM1600) | New York
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23848/images/logod.jpg" group-title="US Radio" radio="true",WWRL - BIN New York (AM1600) | New York
 http://stream.revma.ihrhls.com/zc8772
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WNYC-Logo.svg/220px-WNYC-Logo.svg.png" group-title="International Radio" radio="true",WNYC (93.9FM) | New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WNYC-Logo.svg/220px-WNYC-Logo.svg.png" group-title="US Radio" radio="true",WNYC (93.9FM) | New York
 https://fm939.wnyc.org/wnycfm
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/HOT97_WQHT_logo.png/180px-HOT97_WQHT_logo.png" group-title="International Radio" radio="true",Hot 97 | New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/HOT97_WQHT_logo.png/180px-HOT97_WQHT_logo.png" group-title="US Radio" radio="true",Hot 97 | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://assets.espn.go.com/i/espn/networks_shows/radio/crops/500-dark/espn_new_york.png" group-title="International Radio" radio="true",ESPN Radio NY (98.7FM) | New York
+#EXTINF:-1 tvg-logo="https://assets.espn.go.com/i/espn/networks_shows/radio/crops/500-dark/espn_new_york.png" group-title="US Radio" radio="true",ESPN Radio NY (98.7FM) | New York
 https://live.amperwave.net/direct/goodkarma-wepnfmaac-ibc
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1469.png" group-title="International Radio" radio="true",Z100 | New York
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1469.png" group-title="US Radio" radio="true",Z100 | New York
 https://stream.revma.ihrhls.com/zc1469
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1473.png" group-title="International Radio" radio="true",103.5 KTU | New York
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1473.png" group-title="US Radio" radio="true",103.5 KTU | New York
 https://stream.revma.ihrhls.com/zc1473
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1465.png" group-title="International Radio" radio="true",Q104.3 | New York
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1465.png" group-title="US Radio" radio="true",Q104.3 | New York
 https://stream.revma.ihrhls.com/zc1465
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="International Radio" radio="true",Power 105.1 | New York
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="US Radio" radio="true",Power 105.1 | New York
 https://stream.revma.ihrhls.com/zc1481
 
-#EXTINF:-1 tvg-logo="https://media.wnyc.org/i/500/500/c/80/1/wqxr_1_1.png" group-title="International Radio" radio="true",WQXR 105.9 | New York
+#EXTINF:-1 tvg-logo="https://media.wnyc.org/i/500/500/c/80/1/wqxr_1_1.png" group-title="US Radio" radio="true",WQXR 105.9 | New York
 https://stream.wqxr.org/wqxr-web
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63aac656715eb0aefcd90619" group-title="International Radio" radio="true",106.7 Lite FM | New York
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63aac656715eb0aefcd90619" group-title="US Radio" radio="true",106.7 Lite FM | New York
 https://stream.revma.ihrhls.com/zc1477
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WblsFMlogo.png/220px-WblsFMlogo.png" group-title="International Radio" radio="true",WBLS 107.5 | New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WblsFMlogo.png/220px-WblsFMlogo.png" group-title="US Radio" radio="true",WBLS 107.5 [GBLK] | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6021a6635a4953bcc000df01" group-title="International Radio" radio="true",AM570 LA Sports | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6021a6635a4953bcc000df01" group-title="US Radio" radio="true",AM570 LA Sports | Los Angeles
 https://stream.revma.ihrhls.com/zc189
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/177.png" group-title="International Radio" radio="true",KFI AM640 | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/177.png" group-title="US Radio" radio="true",KFI AM640 | Los Angeles
 https://stream.revma.ihrhls.com/zc177
 
-#EXTINF:-1 tvg-logo="https://assets.espn.go.com/i/espn/networks_shows/radio/crops/500-dark/espn_la.png" group-title="International Radio" radio="true",ESPN Radio LA (AM710) | Los Angeles
+#EXTINF:-1 tvg-logo="https://assets.espn.go.com/i/espn/networks_shows/radio/crops/500-dark/espn_la.png" group-title="US Radio" radio="true",ESPN Radio LA (AM710) | Los Angeles
 https://live.amperwave.net/direct/goodkarma-kspnamaac-ibc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KABC2016.png/220px-KABC2016.png" group-title="International Radio" radio="true",KABC AM790 | Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KABC2016.png/220px-KABC2016.png" group-title="US Radio" radio="true",KABC AM790 | Los Angeles
 https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/KRLA_AM870TheAnswer_logo.png/150px-KRLA_AM870TheAnswer_logo.png" group-title="International Radio" radio="true",KRLA AM870 The Answer | Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/KRLA_AM870TheAnswer_logo.png/150px-KRLA_AM870TheAnswer_logo.png" group-title="US Radio" radio="true",KRLA AM870 The Answer | Los Angeles
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/197.png" group-title="International Radio" radio="true",KEIB AM1150 The Patriot | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/197.png" group-title="US Radio" radio="true",KEIB AM1150 The Patriot | Los Angeles
 https://stream.revma.ihrhls.com/zc197
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/b7db3a22-d9cb-43dc-9df6-6bb71cc6427b.png" group-title="International Radio" radio="true",Real 92.3 | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/b7db3a22-d9cb-43dc-9df6-6bb71cc6427b.png" group-title="US Radio" radio="true",Real 92.3 | Los Angeles
 https://stream.revma.ihrhls.com/zc181
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/201.png" group-title="International Radio" radio="true",ALT 98.7 | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/201.png" group-title="US Radio" radio="true",ALT 98.7 | Los Angeles
 https://stream.revma.ihrhls.com/zc201
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/185.png" group-title="International Radio" radio="true",102.7 KIIS-FM | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/185.png" group-title="US Radio" radio="true",102.7 KIIS-FM | Los Angeles
 https://stream.revma.ihrhls.com/zc185
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/193.png" group-title="International Radio" radio="true",KOST 103.5 | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/193.png" group-title="US Radio" radio="true",KOST 103.5 | Los Angeles
 https://stream.revma.ihrhls.com/zc193
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5dda6726-e3ba-4c81-b23d-21c9f5301e6f" group-title="International Radio" radio="true",104.3 MYfm | Los Angeles
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5dda6726-e3ba-4c81-b23d-21c9f5301e6f" group-title="US Radio" radio="true",104.3 MYfm | Los Angeles
 https://stream.revma.ihrhls.com/zc173
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/64669b65c169bd5842517d4e" group-title="International Radio" radio="true",Pop 101.9 | Hawaii
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5f57fa341b8aceca3cd59d86" group-title="US Radio" radio="true",BIN AM640 | Chicago
+https://stream.revma.ihrhls.com/zc9553
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/WGNAMLogoasof2019.webp/250px-WGNAMLogoasof2019.webp.png" group-title="US Radio" radio="true",WGN Radio 720 | Chicago
+https://live.amperwave.net/direct/wgnam-wgnamaac-imc2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/WCPT_station_logo_2021.png/220px-WCPT_station_logo_2021.png" group-title="US Radio" radio="true",WCPT 820AM | Chicago
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCPTAM.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/WLS_AM_890_logo.svg/220px-WLS_AM_890_logo.svg.png" group-title="US Radio" radio="true",WLS 890AM | Chicago
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://assets.espn.go.com/i/espn/networks_shows/radio/crops/500-dark/espn_chicago.png" group-title="US Radio" radio="true",ESPN Radio Chicago (AM1000) | Chicago
+https://live.amperwave.net/direct/goodkarma-wmvpamaac-ibc1
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/845.png" group-title="US Radio" radio="true",Inspiration 1390AM | Chicago
+https://stream.revma.ihrhls.com/zc845
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/853.png" group-title="US Radio" radio="true",93.9 Lite FM | Chicago
+https://stream.revma.ihrhls.com/zc853
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/WLS-FM_logo.svg/200px-WLS-FM_logo.svg.png" group-title="US Radio" radio="true",WLS 94.7 FM | Chicago
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s21577/images/logog.jpg" group-title="US Radio" radio="true",ROCK 95.5 | Chicago
+https://stream.revma.ihrhls.com/zc857
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/641b4a9ade66c5274866b3fc" group-title="US Radio" radio="true",BIG 95.5 (HD2) | Chicago
+https://stream.revma.ihrhls.com/zc8731
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/WKQX-Q101-Chicago-logo.png/200px-WKQX-Q101-Chicago-logo.png" group-title="US Radio" radio="true",Q101 (101.1FM) | Chicago
+https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/865.png" group-title="US Radio" radio="true",V103 (102.7FM) | Chicago
+https://stream.revma.ihrhls.com/zc865
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/849.png" group-title="US Radio" radio="true",103.5 Kiss FM | Chicago
+https://stream.revma.ihrhls.com/zc849
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/841.png" group-title="US Radio" radio="true",WGCI 107.5 | Chicago
+https://stream.revma.ihrhls.com/zc841
+
+#EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="US Radio" radio="true",The Answer AM690/FM94.3 | Hawaii
+https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/64669b65c169bd5842517d4e" group-title="US Radio" radio="true",Pop 101.9 | Hawaii
 https://stream.revma.ihrhls.com/zc8470
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CNA938_logo.png/200px-CNA938_logo.png" group-title="International Radio" radio="true",CNA938 Singapore
 https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
 
-#EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="International Radio" radio="true",The Answer Hawaii AM690/FM94.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC.aac
+#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/1326/2022/02/09171458/REDE-CM-RedEyeRadio-WHITE.png" group-title="US Radio" radio="true",Red Eye Radio (Talk)
+https://playerservices.streamtheworld.com/api/livestream-redirect/REDEYERADIOAAC.aac
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/The_Blaze_%28Current%29.png/revision/latest/scale-to-width-down/250?cb=20201110034057" group-title="International Radio" radio="true",TheBlaze Radio (Conservative Talk)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/The_Blaze_%28Current%29.png/revision/latest/scale-to-width-down/250?cb=20201110034057" group-title="US Radio" radio="true",TheBlaze Radio (Conservative Talk)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLZE_1AAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/18330340/series/fAP7lhwW5zBFy69n/256.jpg" group-title="International Radio" radio="true",Sean Hannity Show (Conservative Talk)
+#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/18330340/series/fAP7lhwW5zBFy69n/256.jpg" group-title="US Radio" radio="true",Sean Hannity Show (Conservative Talk)
 http://stream.revma.ihrhls.com/zc6706
 
-#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/20701083/series/UmqNnOV6ROJlIA6B/256.jpg" group-title="International Radio" radio="true",Mark Levin Show (Conservative Talk)
+#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/20701083/series/UmqNnOV6ROJlIA6B/256.jpg" group-title="US Radio" radio="true",Mark Levin Show (Conservative Talk)
 https://playerservices.streamtheworld.com/api/livestream-redirect/MARK_LEVINAAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="International Radio" radio="true",Progressive Voices (Progressive Talk)
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="US Radio" radio="true",Progressive Voices (Progressive Talk)
 https://tunein.streamguys1.com/progressivevoices
 
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="International Radio" radio="true",PV2 - Stephanie Miller Show / Thom Hartmann Show (Progressive Talk)
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="US Radio" radio="true",PV2 - Stephanie Miller Show / Thom Hartmann Show (Progressive Talk)
 https://tunein.streamguys1.com/pv2-stephthom
 
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="International Radio" radio="true",PV3 - Randi Rhodes Show (Progressive Talk)
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="US Radio" radio="true",PV3 - Randi Rhodes Show (Progressive Talk)
 https://tunein.streamguys1.com/pv3-randy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbV6Qww/wnn-social0.png" group-title="International Radio" radio="true",WNN / TALKAST (Progressive Talk)
