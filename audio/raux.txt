@@ -391,17 +391,20 @@ http://stream.revma.ihrhls.com/zc4732
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25876g.png" group-title="US Radio" radio="true",ESPN Radio
 https://live.wostreaming.net/direct/espn-network-48
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation
-https://stream.revma.ihrhls.com/zc4422
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="US Radio" radio="true",American Top 40
-http://stream.revma.ihrhls.com/zc4802
-
 #EXTINF:-1 tvg-logo="https://media.npr.org/chrome_svg/npr-logo.svg" group-title="US Radio" radio="true",NPR
 https://npr-ice.streamguys1.com/live.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb56ce92bde4af7401a1a9" group-title="US Radio" radio="true",Black Information Network
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation | iHeart
+https://stream.revma.ihrhls.com/zc4422
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="US Radio" radio="true",American Top 40 | iHeart
+http://stream.revma.ihrhls.com/zc4802
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb56ce92bde4af7401a1a9" group-title="US Radio" radio="true",Black Information Network | iHeart
 https://stream.revma.ihrhls.com/zc8666
+
+#EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2022/01/21131743/77-WABC-Gold_narrow_4.png" group-title="US Radio" radio="true",The Mission WMCA (AM570/102.3FM) | New York
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WFAN.png" group-title="US Radio" radio="true",WFAN (66AM/101.9FM) [GBLK] | New York
 https://live.amperwave.net/manifest/audacy-wfanamaac-imc
@@ -432,9 +435,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/WLIB2006.png" group-title="US Radio" radio="true",1190 WLIB [GBLK] | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="US Radio" radio="true",WFAS AM1230 | New York
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23848/images/logod.jpg" group-title="US Radio" radio="true",WWRL - BIN New York AM1600 | New York
 http://stream.revma.ihrhls.com/zc8772
@@ -490,6 +490,9 @@ https://stream.revma.ihrhls.com/zc1477
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WblsFMlogo.png/220px-WblsFMlogo.png" group-title="US Radio" radio="true",WBLS 107.5 [GBLK] | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
 
+#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="US Radio" radio="true",WFAS AM1230 | White Plains, NY
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC.aac
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6021a6635a4953bcc000df01" group-title="US Radio" radio="true",AM570 LA Sports | Los Angeles
 https://stream.revma.ihrhls.com/zc189
 
@@ -505,14 +508,53 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/KRLA_AM870TheAnswer_logo.png/150px-KRLA_AM870TheAnswer_logo.png" group-title="US Radio" radio="true",KRLA AM870 The Answer | Los Angeles
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC.aac
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/KNX_971_NewsTalk.png/150px-KNX_971_NewsTalk.png" group-title="US Radio" radio="true",KNX Newsradio (AM1070/97.1FM) [GBLK] | Los Angeles
+https://live.amperwave.net/manifest/audacy-knxamaac-imc
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/197.png" group-title="US Radio" radio="true",KEIB AM1150 The Patriot | Los Angeles
 https://stream.revma.ihrhls.com/zc197
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/KCRW_89.9FM_logo.svg/150px-KCRW_89.9FM_logo.svg.png" group-title="US Radio" radio="true",KCRW 89.9 | Los Angeles
+https://kcrw.streamguys1.com/kcrw_128k_mp3_on_air
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/KPFK_Radio_Logo.jpg/150px-KPFK_Radio_Logo.jpg" group-title="US Radio" radio="true",KPFK 90.7 | Los Angeles
+https://ic1.sslstream.com/kpfk-fm.mp3
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/b7db3a22-d9cb-43dc-9df6-6bb71cc6427b.png" group-title="US Radio" radio="true",Real 92.3 | Los Angeles
 https://stream.revma.ihrhls.com/zc181
 
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/jack-logo-square1.png" group-title="US Radio" radio="true",93.1 Jack FM [GBLK] | Los Angeles
+https://live.amperwave.net/manifest/audacy-kcbsfmaac-imc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/93.5_KDAY_Hip_Hop_Back_In_The_Day_logo.jpg/200px-93.5_KDAY_Hip_Hop_Back_In_The_Day_logo.jpg" group-title="US Radio" radio="true",93.5 KDAY [GBLK] | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/KLLI-FM.png/220px-KLLI-FM.png" group-title="US Radio" radio="true",Cali 93.9 | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/ktwv-square-logo.png" group-title="US Radio" radio="true",94.7 the WAVE [GBLK] | Los Angeles
+https://live.amperwave.net/manifest/audacy-ktwvfmaac-imc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/KLOS_LOGO.png/200px-KLOS_LOGO.png" group-title="US Radio" radio="true",95.5 KLOS [GBLK] | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KLOS2_Logo.jpg/200px-KLOS2_Logo.jpg" group-title="US Radio" radio="true",95.5 KLOS2 (HD2) | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/KFSH-FM_95.9_The_Fish_logo.jpg/250px-KFSH-FM_95.9_The_Fish_logo.jpg" group-title="US Radio" radio="true",95.9 The Fish | OC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC.aac
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/201.png" group-title="US Radio" radio="true",ALT 98.7 | Los Angeles
 https://stream.revma.ihrhls.com/zc201
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/KKLA-FM.png/125px-KKLA-FM.png" group-title="US Radio" radio="true",99.5 KKLA | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/kearth101.png" group-title="US Radio" radio="true",K-EARTH 101 (101.1FM) [GBLK] | Los Angeles
+https://live.amperwave.net/manifest/audacy-krthfmaac-imc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Radio_FREE_102.3_KJLH_logo.png" group-title="US Radio" radio="true",102.3 KJLH | Los Angeles
+https://live.amperwave.net/manifest/kjlh-kjlhfmaac-ibc2
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/185.png" group-title="US Radio" radio="true",102.7 KIIS-FM | Los Angeles
 https://stream.revma.ihrhls.com/zc185
@@ -522,6 +564,12 @@ https://stream.revma.ihrhls.com/zc193
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5dda6726-e3ba-4c81-b23d-21c9f5301e6f" group-title="US Radio" radio="true",104.3 MYfm | Los Angeles
 https://stream.revma.ihrhls.com/zc173
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/KPWR_Los_Angeles_Power_106_FM_logo.jpg/200px-KPWR_Los_Angeles_Power_106_FM_logo.jpg" group-title="US Radio" radio="true",Power 106 (105.9FM) | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC.aac
+
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KROQ-FM.jpg" group-title="US Radio" radio="true",106.7 KROQ | Los Angeles
+https://live.amperwave.net/manifest/audacy-kroqfmaac-imc
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5f57fa341b8aceca3cd59d86" group-title="US Radio" radio="true",BIN AM640 | Chicago
 https://stream.revma.ihrhls.com/zc9553
