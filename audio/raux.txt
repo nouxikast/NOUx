@@ -586,7 +586,7 @@ https://stream.revma.ihrhls.com/zc1477
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WblsFMlogo.png/220px-WblsFMlogo.png" group-title="US Radio" radio="true",WBLS 107.5 [GBLK] | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="US Radio" radio="true",WFAS AM1230 | White Plains, NY
+#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/422/2023/02/06142711/WFAS-AM-Sitelogo-2023-02-06.png" group-title="US Radio" radio="true",WFAS AM1230 | White Plains NY
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6021a6635a4953bcc000df01" group-title="US Radio" radio="true",AM570 LA Sports | Los Angeles
