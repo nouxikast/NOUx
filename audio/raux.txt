@@ -727,9 +727,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC.aac
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb0ca56213a0c6338f84cc" group-title="US Radio" radio="true",BIN AM910 Bay Area | San Francisco
 https://stream.revma.ihrhls.com/zc297
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb0ca56213a0c6338f84cc" group-title="US Radio" radio="true",BIN AM910 Bay Area | San Francisco
-https://stream.revma.ihrhls.com/zc297
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165740/images/logog.png" group-title="US Radio" radio="true",Bloomberg Radio SF (AM960) | San Francisco
 https://stream.revma.ihrhls.com/zc310
 
