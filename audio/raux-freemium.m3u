@@ -640,7 +640,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KLOS2_Logo.jpg/200px-KLOS2_Logo.jpg" group-title="US Radio" radio="true",95.5 KLOS2 (HD2) | Los Angeles
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/KFSH-FM_95.9_The_Fish_logo.jpg/250px-KFSH-FM_95.9_The_Fish_logo.jpg" group-title="US Radio" radio="true",95.9 The Fish | OC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/KFSH-FM_95.9_The_Fish_logo.jpg/250px-KFSH-FM_95.9_The_Fish_logo.jpg" group-title="US Radio" radio="true",95.9 The Fish [GBLK] | OC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/201.png" group-title="US Radio" radio="true",ALT 98.7 | Los Angeles
