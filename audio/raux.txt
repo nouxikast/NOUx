@@ -404,7 +404,7 @@ https://stream.revma.ihrhls.com/zc4422
 https://stream.revma.ihrhls.com/zc8167
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="US Radio" radio="true",American Top 40 | iHeart
-http://stream.revma.ihrhls.com/zc4802
+https://stream.revma.ihrhls.com/zc4802
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5d02b2823a01a2ea44a48a41" group-title="US Radio" radio="true",Lite Rock | iHeart
 https://stream.revma.ihrhls.com/zc6830
