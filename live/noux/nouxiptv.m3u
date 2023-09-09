@@ -159,6 +159,12 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #EXTINF:-1 tvg-id="Fite.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
 https://cdn-akamai.fite.tv/4038629_fite-247_abr/live/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="()" tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="Sports",MUTV (Man Utd)
+#
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="Sports",LFCTV (Liverpool)
+#
+
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/My_Cinema_Logo_kedua.png/250px-My_Cinema_Logo_kedua.png" group-title="Movies",MyCinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
