@@ -400,8 +400,77 @@ https://stream.revma.ihrhls.com/zc4422
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="US Radio" radio="true",American Top 40 | iHeart
 http://stream.revma.ihrhls.com/zc4802
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5d02b2823a01a2ea44a48a41" group-title="US Radio" radio="true",Lite Rock | iHeart
+https://stream.revma.ihrhls.com/zc6830
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/63ecf981d236400ce9903402" group-title="US Radio" radio="true",Soft Rock | iHeart
+https://stream.revma.ihrhls.com/zc4414
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Today's Mix | iHeart
+https://stream.revma.ihrhls.com/zc4409
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb56ce92bde4af7401a1a9" group-title="US Radio" radio="true",Black Information Network | iHeart
 https://stream.revma.ihrhls.com/zc8666
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6418bdef3a047b66638616e6" group-title="US Radio" radio="true",Hip-Hop Beats | iHeart
+https://stream.revma.ihrhls.com/zc4429
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64120faacb98efe4c2d39f6f" group-title="US Radio" radio="true",R&B Jams | iHeart
+https://stream.revma.ihrhls.com/zc4433
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5f5a30887ee506307b38d672" group-title="US Radio" radio="true",Power | iHeart
+https://stream.revma.ihrhls.com/zc7360
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5f5a30887ee506307b38d672" group-title="US Radio" radio="true",Wild | iHeart
+https://stream.revma.ihrhls.com/zc4722
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6452976f35abab82653f7de6" group-title="US Radio" radio="true",K-Pop Radio | iHeart
+https://stream.revma.ihrhls.com/zc9003
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/cff882d8-3b36-42ab-b35a-4ad6bc795729" group-title="US Radio" radio="true",Rock Nation | iHeart
+https://stream.revma.ihrhls.com/zc4443
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4426.png" group-title="US Radio" radio="true",Classic Rock | iHeart
+https://stream.revma.ihrhls.com/zc4426
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/3592afad-2be2-4b84-ab2d-f155b78f348b" group-title="US Radio" radio="true",ALT Radio | iHeart
+https://stream.revma.ihrhls.com/zc4447
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64e6884176cc9efead93eb2d" group-title="US Radio" radio="true",ALT Rewind | iHeart
+https://stream.revma.ihrhls.com/zc6950
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/20023775-152b-4eb5-8d68-67dba616e293" group-title="US Radio" radio="true",Smells Like the 90's (Alternative 90s) | iHeart
+https://stream.revma.ihrhls.com/zc6437
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64e6885576cc9efead93eb30" group-title="US Radio" radio="true",ALT 2K | iHeart
+https://stream.revma.ihrhls.com/zc7727
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64caaca1083b54ba5bbf6cc2" group-title="US Radio" radio="true",Indie Radio | iHeart
+https://stream.revma.ihrhls.com/zc7189
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/a69a3c10-27f8-4d80-be9e-a03b1994779c" group-title="US Radio" radio="true",iHeart70s | iHeart
+https://stream.revma.ihrhls.com/zc6843
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64caaca1083b54ba5bbf6cc2" group-title="US Radio" radio="true",iHeart80s | iHeart
+https://stream.revma.ihrhls.com/zc5060
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="US Radio" radio="true",iHeart90s | iHeart
+https://stream.revma.ihrhls.com/zc6834
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/98316aea-eed5-49f2-9b56-cc3d22663f8d" group-title="US Radio" radio="true",iHeart00s (2000s) | iHeart
+https://stream.revma.ihrhls.com/zc6850
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5de821c8d70effba3ac580f7" group-title="US Radio" radio="true",iHeart10s (2010s) | iHeart
+https://stream.revma.ihrhls.com/zc8478
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ce619aae1bf1cebd6641f4c" group-title="US Radio" radio="true",iHeartDance | iHeart
+https://stream.revma.ihrhls.com/zc6941
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="US Radio" radio="true",Evolution (EDM) | iHeart
+https://stream.revma.ihrhls.com/zc5953
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/5144.png" group-title="US Radio" radio="true",Trancid (Trance) | iHeart
+https://stream.revma.ihrhls.com/zc5144
 
 #EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2022/01/21131743/77-WABC-Gold_narrow_4.png" group-title="US Radio" radio="true",The Mission WMCA (AM570/102.3FM) | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac
@@ -514,6 +583,9 @@ https://live.amperwave.net/manifest/audacy-knxamaac-imc
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/197.png" group-title="US Radio" radio="true",KEIB AM1150 The Patriot | Los Angeles
 https://stream.revma.ihrhls.com/zc197
 
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KMZT.jpg" group-title="US Radio" radio="true",K-Mozart (AM1260/105.1 HD2) | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC.aac
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/KCRW_89.9FM_logo.svg/150px-KCRW_89.9FM_logo.svg.png" group-title="US Radio" radio="true",KCRW 89.9 | Los Angeles
 https://kcrw.streamguys1.com/kcrw_128k_mp3_on_air
 
@@ -565,7 +637,10 @@ https://stream.revma.ihrhls.com/zc193
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5dda6726-e3ba-4c81-b23d-21c9f5301e6f" group-title="US Radio" radio="true",104.3 MYfm | Los Angeles
 https://stream.revma.ihrhls.com/zc173
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/KPWR_Los_Angeles_Power_106_FM_logo.jpg/200px-KPWR_Los_Angeles_Power_106_FM_logo.jpg" group-title="US Radio" radio="true",Power 106 (105.9FM) | Los Angeles
+#EXTINF:-1 tvg-logo="https://gocountry105.com/images/global/logo/Go-Country-105.jpg" group-title="US Radio" radio="true",Go Country 105 (105.1FM) [GBLK] | Los Angeles
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/KPWR_Los_Angeles_Power_106_FM_logo.jpg/200px-KPWR_Los_Angeles_Power_106_FM_logo.jpg" group-title="US Radio" radio="true",Power 106 (105.9FM) [GBLK] | Los Angeles
 https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC.aac
 
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KROQ-FM.jpg" group-title="US Radio" radio="true",106.7 KROQ | Los Angeles
