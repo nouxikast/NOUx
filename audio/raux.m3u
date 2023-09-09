@@ -391,7 +391,7 @@ https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxnNTNc/4732.png" group-title="US Radio" radio="true",Fox Sports Radio
 http://stream.revma.ihrhls.com/zc4732
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25876g.png" group-title="US Radio" radio="true",ESPN Radio
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b895d646-147e-4615-9852-9d6b1bc84f28" group-title="US Radio" radio="true",ESPN Radio
 https://live.wostreaming.net/direct/espn-network-48
 
 #EXTINF:-1 tvg-logo="https://media.npr.org/chrome_svg/npr-logo.svg" group-title="US Radio" radio="true",NPR
@@ -399,6 +399,9 @@ https://npr-ice.streamguys1.com/live.aac
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation | iHeart
 https://stream.revma.ihrhls.com/zc4422
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c06de7866648c817d8cad6a" group-title="US Radio" radio="true",iHeartRadio Pop | iHeart
+https://stream.revma.ihrhls.com/zc8167
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="US Radio" radio="true",American Top 40 | iHeart
 http://stream.revma.ihrhls.com/zc4802
@@ -420,6 +423,9 @@ https://stream.revma.ihrhls.com/zc4429
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64120faacb98efe4c2d39f6f" group-title="US Radio" radio="true",R&B Jams | iHeart
 https://stream.revma.ihrhls.com/zc4433
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/2c49da93-9ac4-4411-b748-b48a5014ecd3" group-title="US Radio" radio="true",Throwbacks (Classic Hip-Hop/R&B) | iHeart
+https://stream.revma.ihrhls.com/zc7397
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5f5a30887ee506307b38d672" group-title="US Radio" radio="true",Power | iHeart
 https://stream.revma.ihrhls.com/zc7360
@@ -451,6 +457,24 @@ https://stream.revma.ihrhls.com/zc7727
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64caaca1083b54ba5bbf6cc2" group-title="US Radio" radio="true",Indie Radio | iHeart
 https://stream.revma.ihrhls.com/zc7189
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8bc0f9ba37c3dc7f68986" group-title="US Radio" radio="true",Smooth Jazz | iHeart
+https://stream.revma.ihrhls.com/zc4242
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/627d4d97dc50e9cd81fa88bf" group-title="US Radio" radio="true",Smooth Jazz Network | iHeart
+https://stream.revma.ihrhls.com/zc9417
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ed55acb4dbf758fa83ed7b3" group-title="US Radio" radio="true",Real Oldies | iHeart
+https://stream.revma.ihrhls.com/zc4717
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64d0f605100c78386a2b002a" group-title="US Radio" radio="true",Big Classic Hits | iHeart
+https://stream.revma.ihrhls.com/zc4455
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/f66d066f-e208-4922-9ba0-c2f95d9fe503" group-title="US Radio" radio="true",Classic American Top 40 | iHeart
+https://stream.revma.ihrhls.com/zc6545
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/d09ac81f-c4d0-4c90-b9fe-bf65af1c614d" group-title="US Radio" radio="true",iHeart60s | iHeart
+https://stream.revma.ihrhls.com/zc6873
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/a69a3c10-27f8-4d80-be9e-a03b1994779c" group-title="US Radio" radio="true",iHeart70s | iHeart
 https://stream.revma.ihrhls.com/zc6843
 
@@ -475,7 +499,7 @@ https://stream.revma.ihrhls.com/zc5953
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/5144.png" group-title="US Radio" radio="true",Trancid (Trance) | iHeart
 https://stream.revma.ihrhls.com/zc5144
 
-#EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2022/01/21131743/77-WABC-Gold_narrow_4.png" group-title="US Radio" radio="true",The Mission WMCA (AM570/102.3FM) | New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/WMCA_theMission570_logo.png/300px-WMCA_theMission570_logo.png" group-title="US Radio" radio="true",The Mission WMCA (AM570/102.3FM) | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WFAN.png" group-title="US Radio" radio="true",WFAN (66AM/101.9FM) [GBLK] | New York
