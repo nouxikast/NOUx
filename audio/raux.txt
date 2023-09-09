@@ -400,9 +400,6 @@ https://npr-ice.streamguys1.com/live.aac
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation | iHeart
 https://stream.revma.ihrhls.com/zc4422
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c06de7866648c817d8cad6a" group-title="US Radio" radio="true",iHeartRadio Pop | iHeart
-https://stream.revma.ihrhls.com/zc8167
-
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/cfe7bd3b-e0ec-40e9-8e2b-6ed7df4cc446" group-title="US Radio" radio="true",KISS | iHeart
 https://stream.revma.ihrhls.com/zc7362
 
@@ -495,6 +492,9 @@ https://stream.revma.ihrhls.com/zc6850
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5de821c8d70effba3ac580f7" group-title="US Radio" radio="true",iHeart10s (2010s) | iHeart
 https://stream.revma.ihrhls.com/zc8478
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60b8f2c129217362d62e9b8c" group-title="US Radio" radio="true",Pride Radio | iHeart
+https://stream.revma.ihrhls.com/zc3949
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ce619aae1bf1cebd6641f4c" group-title="US Radio" radio="true",iHeartDance | iHeart
 https://stream.revma.ihrhls.com/zc6941
