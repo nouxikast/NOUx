@@ -676,7 +676,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/KPWR_Los_Angeles_Power_106_FM_logo.jpg/200px-KPWR_Los_Angeles_Power_106_FM_logo.jpg" group-title="US Radio" radio="true",Power 106 (105.9FM) [GBLK] | Los Angeles
 https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC.aac
 
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KROQ-FM.jpg" group-title="US Radio" radio="true",106.7 KROQ | Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/106.7_KROQ_logo_%282022%29.png" group-title="US Radio" radio="true",106.7 KROQ | Los Angeles
 https://live.amperwave.net/manifest/audacy-kroqfmaac-imc
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5f57fa341b8aceca3cd59d86" group-title="US Radio" radio="true",BIN AM640 | Chicago
