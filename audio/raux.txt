@@ -388,14 +388,29 @@ https://live.amperwave.net/manifest/audacy-cnniaac-imc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2Q1gCR/5f3b43f0529439aac0159456.png" group-title="US Radio" radio="true",Fox News Radio
 https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/National_Public_Radio_logo.svg/200px-National_Public_Radio_logo.svg.png" group-title="US Radio" radio="true",NPR
+https://npr-ice.streamguys1.com/live.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/200px-Associated_Press_logo_2012.svg.png" group-title="US Radio" radio="true",AP Radio News
+https://apnews.streamguys1.com/apnews.aac
+
+#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/1326/2022/02/09171458/REDE-CM-RedEyeRadio-WHITE.png" group-title="US Radio" radio="true",Red Eye Radio (Talk)
+https://playerservices.streamtheworld.com/api/livestream-redirect/REDEYERADIOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/The_Blaze_%28Current%29.png/revision/latest/scale-to-width-down/250?cb=20201110034057" group-title="US Radio" radio="true",TheBlaze Radio (Conservative Talk)
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLZE_1AAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/20701083/series/UmqNnOV6ROJlIA6B/256.jpg" group-title="US Radio" radio="true",Mark Levin Show (Conservative Talk)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MARK_LEVINAAC.aac
+
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="US Radio" radio="true",Progressive Voices (Progressive Talk)
+https://tunein.streamguys1.com/progressivevoices
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxnNTNc/4732.png" group-title="US Radio" radio="true",Fox Sports Radio
-http://stream.revma.ihrhls.com/zc4732
+https://stream.revma.ihrhls.com/zc4732
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b895d646-147e-4615-9852-9d6b1bc84f28" group-title="US Radio" radio="true",ESPN Radio
 https://live.wostreaming.net/direct/espn-network-48
-
-#EXTINF:-1 tvg-logo="https://media.npr.org/chrome_svg/npr-logo.svg" group-title="US Radio" radio="true",NPR
-https://npr-ice.streamguys1.com/live.aac
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation | iHeart
 https://stream.revma.ihrhls.com/zc4422
@@ -417,6 +432,12 @@ https://stream.revma.ihrhls.com/zc4409
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/d9466b96-953d-4965-8f43-cfd42aca24fe" group-title="US Radio" radio="true",NBC News Radio | iHeart
 https://stream.revma.ihrhls.com/zc6043
+
+#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/18330340/series/fAP7lhwW5zBFy69n/256.jpg" group-title="US Radio" radio="true",Sean Hannity Show (Conservative Talk) | iHeart
+https://stream.revma.ihrhls.com/zc6706
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60216b745a4953bcc000deff" group-title="US Radio" radio="true",The Ramsey Show (Talk) | iHeart
+https://stream.revma.ihrhls.com/zc6706
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb56ce92bde4af7401a1a9" group-title="US Radio" radio="true",Black Information Network | iHeart
 https://stream.revma.ihrhls.com/zc8666
@@ -501,6 +522,9 @@ https://stream.revma.ihrhls.com/zc6850
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5de821c8d70effba3ac580f7" group-title="US Radio" radio="true",iHeart10s (2010s) | iHeart
 https://stream.revma.ihrhls.com/zc8478
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/8dae351b-a076-4418-a2ad-a3434bfa1d75" group-title="US Radio" radio="true",Up! (Contemporary Christian) | iHeart
+https://stream.revma.ihrhls.com/zc7203
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="US Radio" radio="true",iHeartClassical | iHeart
 https://stream.revma.ihrhls.com/zc6377
@@ -732,27 +756,6 @@ https://stream.revma.ihrhls.com/zc8470
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CNA938_logo.png/200px-CNA938_logo.png" group-title="International Radio" radio="true",CNA938 Singapore
 https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
-
-#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/1326/2022/02/09171458/REDE-CM-RedEyeRadio-WHITE.png" group-title="US Radio" radio="true",Red Eye Radio (Talk)
-https://playerservices.streamtheworld.com/api/livestream-redirect/REDEYERADIOAAC.aac
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/The_Blaze_%28Current%29.png/revision/latest/scale-to-width-down/250?cb=20201110034057" group-title="US Radio" radio="true",TheBlaze Radio (Conservative Talk)
-https://playerservices.streamtheworld.com/api/livestream-redirect/BLZE_1AAC.aac
-
-#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/18330340/series/fAP7lhwW5zBFy69n/256.jpg" group-title="US Radio" radio="true",Sean Hannity Show (Conservative Talk)
-http://stream.revma.ihrhls.com/zc6706
-
-#EXTINF:-1 tvg-logo="https://cdn.player.fm/images/20701083/series/UmqNnOV6ROJlIA6B/256.jpg" group-title="US Radio" radio="true",Mark Levin Show (Conservative Talk)
-https://playerservices.streamtheworld.com/api/livestream-redirect/MARK_LEVINAAC.aac
-
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="US Radio" radio="true",Progressive Voices (Progressive Talk)
-https://tunein.streamguys1.com/progressivevoices
-
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="US Radio" radio="true",PV2 - Stephanie Miller Show / Thom Hartmann Show (Progressive Talk)
-https://tunein.streamguys1.com/pv2-stephthom
-
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d6/bd/176398/1/c300.png" group-title="US Radio" radio="true",PV3 - Randi Rhodes Show (Progressive Talk)
-https://tunein.streamguys1.com/pv3-randy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbV6Qww/wnn-social0.png" group-title="International Radio" radio="true",WNN / TALKAST (Progressive Talk)
 https://stream.zeno.fm/6lx1lnjwvvsuv
