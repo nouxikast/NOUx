@@ -427,6 +427,15 @@ https://stream.revma.ihrhls.com/zc4429
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64120faacb98efe4c2d39f6f" group-title="US Radio" radio="true",R&B Jams | iHeart
 https://stream.revma.ihrhls.com/zc4433
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/6529.png" group-title="US Radio" radio="true",The Sweat Hotel with Keith Sweat (Slow Jams) | iHeart
+https://stream.revma.ihrhls.com/zc6529
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/643d8fb29261a5caee871f76" group-title="US Radio" radio="true",Classic Soul | iHeart
+https://stream.revma.ihrhls.com/zc7120
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/644170ff4a28c0253208c305" group-title="US Radio" radio="true",Classic Funk | iHeart
+https://stream.revma.ihrhls.com/zc6955
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/2c49da93-9ac4-4411-b748-b48a5014ecd3" group-title="US Radio" radio="true",Throwbacks (Classic Hip-Hop/R&B) | iHeart
 https://stream.revma.ihrhls.com/zc7397
 
