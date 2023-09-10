@@ -12,10 +12,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 #EXTINF:-1 tvg-id="()" tvg-logo="https://i.ibb.co/VpccLmm/vOd437K.png" group-title="Sports",USA Today Sports
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Sportswire.m3u8
 
-#EXTINF:-1 tvg-logo="https://nouxikast.github.io/feeds/noux/prts1-logo.png" group-title="News",PRTS1 - Senate
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/live/noux/prts1-logo.png" group-title="News",PRTS1 - Senate
 https://ytlive.phcnetwork.workers.dev/stream/senateofthephilippines/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://nouxikast.github.io/feeds/noux/prts2-logo.png" group-title="News",PRTS2 - Kamara
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/live/noux/prts2-logo.png" group-title="News",PRTS2 - Kamara
 https://ytlive.phcnetwork.workers.dev/stream/HouseofRepresentativesPH/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="News",CNA
@@ -24,8 +24,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DZRH_News_Television_Logo_%282021%29.jpg/250px-DZRH_News_Television_Logo_%282021%29.jpg" group-title="News",DZRH TV
 https://ytlive.phcnetwork.workers.dev/stream/DZRHNewsTelevision/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Radio_Mindanao_Network_%282014%29.png/220px-Radio_Mindanao_Network_%282014%29.png" group-title="News",RMN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Radio_Mindanao_Network_%282014%29.png/220px-Radio_Mindanao_Network_%282014%29.png" group-title="News",RMN TV (DZXL 558)
 https://ytlive.phcnetwork.workers.dev/stream/dzxl5587/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dVuMSdfgN7.png" group-title="News",DZME RadyoTV
+https://ythls.onrender.com/channel/UC5D7OLxnIxhKu2m0R85Ki9A.m3u8
 
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="Free to Air",PTV
 https://qn-10135-spc-qb-1-1.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwAd4nLqHso-fEbwGziZPtsrj_574Cbh_7s3nenWOGS14)/dm/3/x5cr6b9/s/live-2.m3u8
@@ -101,6 +104,9 @@ https://ytlive.phcnetwork.workers.dev/stream/LIFETVASIAOFFICIAL/master.m3u8
 
 #EXTINF:-1 tvg-id="GCTVAsia.ph" tvg-name="GCTV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-commission-tv-ph.png" group-title="Religious",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-name="Veritas TV (Veritas 846)" tvg-logo="https://i.ytimg.com/vi/bopX0nlK4Ws/maxresdefault_live.jpg" group-title="Religious",Veritas TV (Veritas 846)
+https://ythls.onrender.com/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-name="Hope Channel Philippines" tvg-logo="https://i.ibb.co/rxftBjT/hopech-ph-logo.png" group-title="Religious",Hope Channel Philippines (SDA)
 https://videodelivery.net/102633a56c6e158023dd195b6d117566/manifest/video.m3u8
