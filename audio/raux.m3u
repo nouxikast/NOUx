@@ -619,7 +619,7 @@ https://stream.revma.ihrhls.com/zc193
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5dda6726-e3ba-4c81-b23d-21c9f5301e6f" group-title="US Radio" radio="true",104.3 MYfm | Los Angeles
 https://stream.revma.ihrhls.com/zc173
 
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KROQ-FM.jpg" group-title="US Radio" radio="true",106.7 KROQ | Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/106.7_KROQ_logo_%282022%29.png" group-title="US Radio" radio="true",106.7 KROQ | Los Angeles
 https://live.amperwave.net/manifest/audacy-kroqfmaac-imc
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5f57fa341b8aceca3cd59d86" group-title="US Radio" radio="true",BIN AM640 | Chicago
