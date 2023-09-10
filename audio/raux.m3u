@@ -493,11 +493,29 @@ https://stream.revma.ihrhls.com/zc6850
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5de821c8d70effba3ac580f7" group-title="US Radio" radio="true",iHeart10s (2010s) | iHeart
 https://stream.revma.ihrhls.com/zc8478
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="US Radio" radio="true",iHeartClassical | iHeart
+https://stream.revma.ihrhls.com/zc6377
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/0ef73f84-d613-41ff-8a36-922bf1aa815e" group-title="US Radio" radio="true",iHeartCountry | iHeart
+https://stream.revma.ihrhls.com/zc4418
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/a7739df4-381a-4aba-9643-7ba568989b8c" group-title="US Radio" radio="true",iHeartCountry Classics | iHeart
+https://stream.revma.ihrhls.com/zc4435
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c3649fcd527cdf3a9f0bd1b" group-title="US Radio" radio="true",iHeartRadio Broadway | iHeart
+https://stream.revma.ihrhls.com/zc7378
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4902.png" group-title="US Radio" radio="true",24/7 Comedy | iHeart
+https://stream.revma.ihrhls.com/zc4902
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60b8f2c129217362d62e9b8c" group-title="US Radio" radio="true",Pride Radio | iHeart
 https://stream.revma.ihrhls.com/zc3949
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ce619aae1bf1cebd6641f4c" group-title="US Radio" radio="true",iHeartDance | iHeart
-https://stream.revma.ihrhls.com/zc6941
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64b165ecdfcdbeb09659a5a1" group-title="US Radio" radio="true",Mix Nation | iHeart
+https://stream.revma.ihrhls.com/zc4776
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/63d2c856732f22243854cc7f" group-title="US Radio" radio="true",iHeartFreestyle | iHeart
+https://stream.revma.ihrhls.com/zc7368
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="US Radio" radio="true",Evolution (EDM) | iHeart
 https://stream.revma.ihrhls.com/zc5953
