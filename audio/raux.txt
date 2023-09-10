@@ -556,6 +556,24 @@ https://stream.revma.ihrhls.com/zc5953
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/5144.png" group-title="US Radio" radio="true",Trancid (Trance) | iHeart
 https://stream.revma.ihrhls.com/zc5144
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",iHeart Christmas | iHeart
+https://stream.revma.ihrhls.com/zc4596
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="US Radio" radio="true",iHeart Christmas Classics | iHeart
+https://stream.revma.ihrhls.com/zc6137
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KLOVE_2014.svg/200px-KLOVE_2014.svg.png" group-title="US Radio" radio="true",K-Love
+https://maestro.emfcdn.com/stream_for/k-love/web/aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Air1_logo_2019.svg/440px-Air1_logo_2019.svg.png" group-title="US Radio" radio="true",Air1
+https://maestro.emfcdn.com/stream_for/air1/web/aac
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s54786d.png" group-title="US Radio" radio="true",LiteFavorites.com
+https://ithaca.cdnstream.com/1255_32
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s54786d.png" group-title="US Radio" radio="true",LiteFavorites.com - Christmas Lite
+https://ithaca.cdnstream.com/1304_64
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/WMCA_theMission570_logo.png/300px-WMCA_theMission570_logo.png" group-title="US Radio" radio="true",The Mission WMCA (AM570/102.3FM) | New York
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac
 
