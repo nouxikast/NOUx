@@ -99,6 +99,15 @@ http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="Music",MTV Global (UK)
 http://195.24.89.82/MTV_SD/index.m3u8
 
+#EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="Live",Love Radio Manila (TV)
+https://ytlive.phcnetwork.workers.dev/stream/loveradiomanila/master.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="Live",Yes the Best Manila (TV)
+https://ytlive.phcnetwork.workers.dev/stream/yesthebestmanila/master.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg/250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png" group-title="Live",Easy Rock Manila (TV)
+https://ytlive.phcnetwork.workers.dev/stream/easyrockmanila/master.m3u8
+
 #EXTINF:-1 tvg-id="LifeTVAsia.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Life_TV_Logo.jpg/revision/latest?cb=20171225062543" group-title="Religious",Life TV Asia
 https://ytlive.phcnetwork.workers.dev/stream/LIFETVASIAOFFICIAL/master.m3u8
 
