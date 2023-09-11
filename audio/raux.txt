@@ -286,11 +286,14 @@ https://fr1.amfmph.com:8135/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/1035RetroCebuLogo.jpg/200px-1035RetroCebuLogo.jpg" group-title="PH Radio" radio="true",Retro Cebu
 https://fr1.amfmph.com:8128/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/819DXUM_LOGO_BLACK.png/220px-819DXUM_LOGO_BLACK.png" group-title="PH Radio" radio="true",DXUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/819DXUM_LOGO_BLACK.png/220px-819DXUM_LOGO_BLACK.png" group-title="PH Radio" radio="true",DXUM 819 Davao
 https://fr1.amfmph.com/ssl/dxumdavao?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Davao
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Davao (97.9 Davao / 100.7 Digos)
 https://us1.amfmph.com/ssl/xfmdavao?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Cebu 88.3
+https://us1.amfmph.com/ssl/xfmcebu?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZffJcMc/neoretro.jpg" group-title="PH Radio" radio="true",NeoRetro
 https://listen.mixlr.com/99e6ab54d5ef827081854807d543101a
