@@ -544,6 +544,9 @@ https://streaming.live365.com/a77334
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64347eeeb51dd0eb7e421125" group-title="US Radio" radio="true",Chill Jams | iHeart
 https://stream.revma.ihrhls.com/zc4719
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/160a1139-5c48-4cc7-bf08-9d5341a2acd0.png" group-title="US Radio" radio="true", Coffee Shop | iHeart
+https://stream.revma.ihrhls.com/zc6698
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/c84101fd-74c8-4f40-a20d-707ab6a01535.png" group-title="US Radio" radio="true",The Standard (Adult Standards) | iHeart
 https://stream.revma.ihrhls.com/zc6784
 
