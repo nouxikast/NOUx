@@ -751,6 +751,9 @@ https://stream.revma.ihrhls.com/zc8731
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/WKQX-Q101-Chicago-logo.png/200px-WKQX-Q101-Chicago-logo.png" group-title="US Radio" radio="true",Q101 (101.1FM) | Chicago
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC.aac
 
+#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/359/2018/03/07183255/wlup-logo_800w_01.png" group-title="US Radio" radio="true",The Loop (101.1 HD2/Online) | Chicago
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLUPFMAAC.aac
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/865.png" group-title="US Radio" radio="true",V103 (102.7FM) | Chicago
 https://stream.revma.ihrhls.com/zc865
 
