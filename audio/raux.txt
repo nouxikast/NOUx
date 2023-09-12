@@ -268,6 +268,9 @@ https://us2.amfmph.com/ssl/fmr1?mp=/stream
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Tacloban
 https://de3.amfmph.com/ssl/fmrtacloban?mp=/stream
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Tacloban
+https://securestreams7.autopo.st/?uri=http://de3.amfmph.com:8715/stream
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/963wrock_DYRK.png/revision/latest/scale-to-width-down/300?cb=20210616100408" group-title="PH Radio" radio="true",WRocK
 https://securestreams7.autopo.st/?uri=http://wrockceb-iradiocebuph.radioca.st/stream
 
@@ -277,7 +280,7 @@ https://live.wostreaming.net/direct/y101fm-y101fmaac-ibc1
 #EXTINF:-1 tvg-logo="https://www.amfmph.com/wp-content/uploads/reinard/radyo-one-cebu-amfmph.png" group-title="PH Radio" radio="true",Radyo One Cebu
 https://de3.amfmph.com/ssl/onecebu?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwRnMWy/wildfmdavao.png" group-title="PH Radio" radio="true",Wild FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwRnMWy/wildfmdavao.png" group-title="PH Radio" radio="true",Wild FM Davao
 https://fr1.amfmph.com:8130/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Retrodavao.jpg/220px-Retrodavao.jpg" group-title="PH Radio" radio="true",Retro Davao
@@ -294,6 +297,15 @@ https://us1.amfmph.com/ssl/xfmdavao?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Cebu 88.3
 https://us1.amfmph.com/ssl/xfmcebu?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Bacolod 96.7
+https://us1.amfmph.com/ssl/xfmbacolod?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Iloilo 100.7
+https://us1.amfmph.com/ssl/xfmiloilo?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM General Santos 104.7
+https://us1.amfmph.com/ssl/xfmgensan?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZffJcMc/neoretro.jpg" group-title="PH Radio" radio="true",NeoRetro
 https://listen.mixlr.com/99e6ab54d5ef827081854807d543101a
