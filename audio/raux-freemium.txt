@@ -109,7 +109,7 @@ https://a1.asurahosting.com:9410/radio.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="PH Radio" radio="true",Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes the Best
 https://s2.radio.co/sa85100da7/listen
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg/250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png" group-title="PH Radio" radio="true",Easy Rock
@@ -123,6 +123,9 @@ http://listen.shoutcast.com/dyrccebuaksyonradyo648khz
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Iloilo
 https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/aksyon_iloilo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/DYHR_new_Logo.png/220px-DYHR_new_Logo.png" group-title="PH Radio" radio="true",Yes the Best Cebu
+https://yesfmcebu.radioca.st/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Radyo5truefm.jpg/220px-Radyo5truefm.jpg" group-title="PH Radio" radio="true",Radyo5 True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
@@ -625,7 +628,7 @@ https://stream.revma.ihrhls.com/zc5144
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",iHeartChristmas | iHeart
 https://stream.revma.ihrhls.com/zc4596
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",North Pole Radio | iHeart
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6324abb89b0da6b0d147598c" group-title="US Radio" radio="true",North Pole Radio | iHeart
 https://stream.revma.ihrhls.com/zc6734
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="US Radio" radio="true",iHeartChristmas Classics | iHeart
