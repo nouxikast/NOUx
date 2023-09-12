@@ -251,7 +251,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MYXFMAAC_48.aa
 https://streaming.live365.com/a63316
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/DCG_FM_887.jpg/revision/latest/scale-to-width-down/300?cb=20210616113526" group-title="PH Radio" radio="true",DCG FM
-https://s4.myradiostream.com/4694/listen.mp3
+https://s5.myradiostream.com/43098/listen.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RadyoPilipino_logo.png/220px-RadyoPilipino_logo.png" group-title="PH Radio" radio="true",Radyo Pilipino
 http://122.3.31.246:89/broadwave.mp3
