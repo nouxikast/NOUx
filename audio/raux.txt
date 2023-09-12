@@ -125,7 +125,7 @@ http://listen.shoutcast.com/dyrccebuaksyonradyo648khz
 https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/aksyon_iloilo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/DYHR_new_Logo.png/220px-DYHR_new_Logo.png" group-title="PH Radio" radio="true",Yes the Best Cebu
-https://yesfmcebu.radioca.st/;
+https://yesfmcebu.radioca.st/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Radyo5truefm.jpg/220px-Radyo5truefm.jpg" group-title="PH Radio" radio="true",Radyo5 True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
