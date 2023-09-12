@@ -439,6 +439,9 @@ https://live.wostreaming.net/direct/espn-network-48
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation | iHeart
 https://stream.revma.ihrhls.com/zc4422
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation Junior | iHeart
+https://stream.revma.ihrhls.com/zc6395
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/cfe7bd3b-e0ec-40e9-8e2b-6ed7df4cc446" group-title="US Radio" radio="true",KISS | iHeart
 https://stream.revma.ihrhls.com/zc7362
 
@@ -454,8 +457,17 @@ https://stream.revma.ihrhls.com/zc4414
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/cef28108-4eec-4b44-b8ce-bc17ac218374.png" group-title="US Radio" radio="true",Love Songs | iHeart
 https://stream.revma.ihrhls.com/zc6790
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/cef28108-4eec-4b44-b8ce-bc17ac218374.png" group-title="US Radio" radio="true",Sunny Radio | iHeart
+https://stream.revma.ihrhls.com/zc5014
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4409.png" group-title="US Radio" radio="true",Today's Mix | iHeart
 https://stream.revma.ihrhls.com/zc4409
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/644144407760feb5e79e2e24" group-title="US Radio" radio="true",Pop Rewind | iHeart
+https://stream.revma.ihrhls.com/zc9756
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64e90dfcf24af9aa7cabe7f7" group-title="US Radio" radio="true",Pop Drive | iHeart
+https://stream.revma.ihrhls.com/zc7403
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/d9466b96-953d-4965-8f43-cfd42aca24fe" group-title="US Radio" radio="true",NBC News Radio | iHeart
 https://stream.revma.ihrhls.com/zc6043
@@ -501,6 +513,9 @@ https://stream.revma.ihrhls.com/zc4443
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4426.png" group-title="US Radio" radio="true",Classic Rock | iHeart
 https://stream.revma.ihrhls.com/zc4426
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4426.png" group-title="US Radio" radio="true",Nu Metal | iHeart
+https://stream.revma.ihrhls.com/zc9483
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/3592afad-2be2-4b84-ab2d-f155b78f348b" group-title="US Radio" radio="true",ALT Radio | iHeart
 https://stream.revma.ihrhls.com/zc4447
@@ -589,17 +604,38 @@ https://stream.revma.ihrhls.com/zc3949
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64b165ecdfcdbeb09659a5a1" group-title="US Radio" radio="true",Mix Nation | iHeart
 https://stream.revma.ihrhls.com/zc4776
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/63d2c856732f22243854cc7f" group-title="US Radio" radio="true",iHeartFreestyle | iHeart
+https://stream.revma.ihrhls.com/zc7368
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/63a5f46c66f4f311bb9f6828" group-title="US Radio" radio="true",Forever Disco | iHeart
+https://stream.revma.ihrhls.com/zc6755
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/644a7df490d8185afdc378e0" group-title="US Radio" radio="true",Dance Nation 90s | iHeart
+https://stream.revma.ihrhls.com/zc6755
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6452979a53e65781f7086c80" group-title="US Radio" radio="true",Cardio Mix | iHeart
+https://stream.revma.ihrhls.com/zc7250
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="US Radio" radio="true",Evolution (EDM) | iHeart
 https://stream.revma.ihrhls.com/zc5953
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/5144.png" group-title="US Radio" radio="true",Trancid (Trance) | iHeart
 https://stream.revma.ihrhls.com/zc5144
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",iHeart Christmas | iHeart
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",iHeartChristmas | iHeart
 https://stream.revma.ihrhls.com/zc4596
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="US Radio" radio="true",iHeart Christmas Classics | iHeart
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",North Pole Radio | iHeart
+https://stream.revma.ihrhls.com/zc6734
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="US Radio" radio="true",iHeartChristmas Classics | iHeart
 https://stream.revma.ihrhls.com/zc6137
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b" group-title="US Radio" radio="true",iHeartChristmas Rock | iHeart
+https://stream.revma.ihrhls.com/zc6410
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6afae4be-9a66-453d-96c0-c94def7b97e9" group-title="US Radio" radio="true",Christmas R&B | iHeart
+https://stream.revma.ihrhls.com/zc6136
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KLOVE_2014.svg/200px-KLOVE_2014.svg.png" group-title="US Radio" radio="true",K-Love
 https://maestro.emfcdn.com/stream_for/k-love/web/aac
