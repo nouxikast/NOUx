@@ -1,9 +1,6 @@
 <!-- RADIO -->
 <!-- IF YOU'RE GOING TO LISTEN TO AUDACY-OWNED STATIONS AND SOME STATIONS OWNED BY CUMULUS AND EMMIS WITH THE "[GBLK]" (GEOBLOCK) TAG, USE VPN AND CHOOSE U.S. SERVER. -->
 #EXTM3U
-#EXTINF:-1 tvg-logo="()" group-title="*" radio="true",Test Stream
-https://securestreams7.autopo.st/?uri=http://109.169.23.17:8140/stream
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvFR1YB/raudio-juanfm-social0.png" group-title="Raudio Channels" radio="true",Raudio Juan FM
 https://stream.zeno.fm/cby0f3nyrzzuv
 
