@@ -157,29 +157,32 @@ https://s5.radio.co/s49bbdfa2a/listen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/1035KLite_newlogo.svg/320px-1035KLite_newlogo.svg.png" group-title="PH Radio" radio="true",103.5 K-Lite
 https://securestreams7.autopo.st/?uri=http://103.36.17.18:8000/stream
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News National
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News National/Manila
 https://securestreams7.autopo.st/?uri=http://makatistream.brigadanews.ph:8068/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Batangas
-https://securestreams7.autopo.st/?uri=http://batangasstream.brigadanews.ph/stream
+https://securestreams7.autopo.st/?uri=http://batangasstream.brigadanews.ph:8040/stream
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Olongapo
+https://securestreams7.autopo.st/?uri=http://olongapostream.brigadanews.ph:8058/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Pampanga
-https://securestreams7.autopo.st/?uri=http://pampangastream.brigadanews.ph/stream
+https://securestreams7.autopo.st/?uri=http://pampangastream.brigadanews.ph:8056/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Cebu
-https://securestreams7.autopo.st/?uri=http://cebustream.brigadanews.ph/stream
+https://securestreams7.autopo.st/?uri=http://cebustream.brigadanews.ph:8026/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News GenSan
-https://securestreams7.autopo.st/?uri=http://gensanstream.brigadanews.ph/stream
+https://securestreams7.autopo.st/?uri=http://gensanstream.brigadanews.ph:8000/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News CDO
-https://securestreams7.autopo.st/?uri=http://cagayanstream.brigadanews.ph/stream
+https://securestreams7.autopo.st/?uri=http://cagayanstream.brigadanews.ph:8010/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Davao
-https://securestreams7.autopo.st/?uri=http://davaostream.brigadanews.ph/stream
+https://securestreams7.autopo.st/?uri=http://davaostream.brigadanews.ph:8004/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Zamboanga
-https://securestreams7.autopo.st/?uri=http://zamboangastream.brigadanews.ph/stream
+https://securestreams7.autopo.st/?uri=http://zamboangastream.brigadanews.ph:8018/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/200px-Wish_107.5_%282015%29.svg.png" group-title="PH Radio" radio="true",Wish 107.5
 https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
@@ -268,6 +271,9 @@ https://us2.amfmph.com/ssl/fmr1?mp=/stream
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Tacloban
 https://de3.amfmph.com/ssl/fmrtacloban?mp=/stream
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Baguio
+https://securestreams7.autopo.st/?uri=http://de3.amfmph.com:8715/stream
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/963wrock_DYRK.png/revision/latest/scale-to-width-down/300?cb=20210616100408" group-title="PH Radio" radio="true",WRocK
 https://securestreams7.autopo.st/?uri=http://wrockceb-iradiocebuph.radioca.st/stream
 
@@ -277,7 +283,7 @@ https://live.wostreaming.net/direct/y101fm-y101fmaac-ibc1
 #EXTINF:-1 tvg-logo="https://www.amfmph.com/wp-content/uploads/reinard/radyo-one-cebu-amfmph.png" group-title="PH Radio" radio="true",Radyo One Cebu
 https://de3.amfmph.com/ssl/onecebu?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwRnMWy/wildfmdavao.png" group-title="PH Radio" radio="true",Wild FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwRnMWy/wildfmdavao.png" group-title="PH Radio" radio="true",Wild FM Davao
 https://fr1.amfmph.com:8130/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Retrodavao.jpg/220px-Retrodavao.jpg" group-title="PH Radio" radio="true",Retro Davao
@@ -294,6 +300,15 @@ https://us1.amfmph.com/ssl/xfmdavao?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Cebu 88.3
 https://us1.amfmph.com/ssl/xfmcebu?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Bacolod 96.7
+https://us1.amfmph.com/ssl/xfmbacolod?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM Iloilo 100.7
+https://us1.amfmph.com/ssl/xfmiloilo?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGXBZB/xfm-ph.png" group-title="PH Radio" radio="true",XFM General Santos 104.7
+https://us1.amfmph.com/ssl/xfmgensan?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZffJcMc/neoretro.jpg" group-title="PH Radio" radio="true",NeoRetro
 https://listen.mixlr.com/99e6ab54d5ef827081854807d543101a
@@ -424,6 +439,9 @@ https://live.wostreaming.net/direct/espn-network-48
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation | iHeart
 https://stream.revma.ihrhls.com/zc4422
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="US Radio" radio="true",Hit Nation Junior | iHeart
+https://stream.revma.ihrhls.com/zc6395
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/cfe7bd3b-e0ec-40e9-8e2b-6ed7df4cc446" group-title="US Radio" radio="true",KISS | iHeart
 https://stream.revma.ihrhls.com/zc7362
 
@@ -439,8 +457,17 @@ https://stream.revma.ihrhls.com/zc4414
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/cef28108-4eec-4b44-b8ce-bc17ac218374.png" group-title="US Radio" radio="true",Love Songs | iHeart
 https://stream.revma.ihrhls.com/zc6790
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/cef28108-4eec-4b44-b8ce-bc17ac218374.png" group-title="US Radio" radio="true",Sunny Radio | iHeart
+https://stream.revma.ihrhls.com/zc5014
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4409.png" group-title="US Radio" radio="true",Today's Mix | iHeart
 https://stream.revma.ihrhls.com/zc4409
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/644144407760feb5e79e2e24" group-title="US Radio" radio="true",Pop Rewind | iHeart
+https://stream.revma.ihrhls.com/zc9756
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/64e90dfcf24af9aa7cabe7f7" group-title="US Radio" radio="true",Pop Drive | iHeart
+https://stream.revma.ihrhls.com/zc7403
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/d9466b96-953d-4965-8f43-cfd42aca24fe" group-title="US Radio" radio="true",NBC News Radio | iHeart
 https://stream.revma.ihrhls.com/zc6043
@@ -486,6 +513,9 @@ https://stream.revma.ihrhls.com/zc4443
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4426.png" group-title="US Radio" radio="true",Classic Rock | iHeart
 https://stream.revma.ihrhls.com/zc4426
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/4426.png" group-title="US Radio" radio="true",Nu Metal | iHeart
+https://stream.revma.ihrhls.com/zc9483
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/3592afad-2be2-4b84-ab2d-f155b78f348b" group-title="US Radio" radio="true",ALT Radio | iHeart
 https://stream.revma.ihrhls.com/zc4447
@@ -577,17 +607,35 @@ https://stream.revma.ihrhls.com/zc4776
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/63d2c856732f22243854cc7f" group-title="US Radio" radio="true",iHeartFreestyle | iHeart
 https://stream.revma.ihrhls.com/zc7368
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/63a5f46c66f4f311bb9f6828" group-title="US Radio" radio="true",Forever Disco | iHeart
+https://stream.revma.ihrhls.com/zc6755
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/644a7df490d8185afdc378e0" group-title="US Radio" radio="true",Dance Nation 90s | iHeart
+https://stream.revma.ihrhls.com/zc6755
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6452979a53e65781f7086c80" group-title="US Radio" radio="true",Cardio Mix | iHeart
+https://stream.revma.ihrhls.com/zc7250
+
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="US Radio" radio="true",Evolution (EDM) | iHeart
 https://stream.revma.ihrhls.com/zc5953
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/5144.png" group-title="US Radio" radio="true",Trancid (Trance) | iHeart
 https://stream.revma.ihrhls.com/zc5144
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",iHeart Christmas | iHeart
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",iHeartChristmas | iHeart
 https://stream.revma.ihrhls.com/zc4596
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="US Radio" radio="true",iHeart Christmas Classics | iHeart
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="US Radio" radio="true",North Pole Radio | iHeart
+https://stream.revma.ihrhls.com/zc6734
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="US Radio" radio="true",iHeartChristmas Classics | iHeart
 https://stream.revma.ihrhls.com/zc6137
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b" group-title="US Radio" radio="true",iHeartChristmas Rock | iHeart
+https://stream.revma.ihrhls.com/zc6410
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6afae4be-9a66-453d-96c0-c94def7b97e9" group-title="US Radio" radio="true",Christmas R&B | iHeart
+https://stream.revma.ihrhls.com/zc6136
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KLOVE_2014.svg/200px-KLOVE_2014.svg.png" group-title="US Radio" radio="true",K-Love
 https://maestro.emfcdn.com/stream_for/k-love/web/aac
