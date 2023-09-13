@@ -139,6 +139,18 @@ https://loveradiodagupan.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Baguio
 https://loveradiobaguio.radioca.st/stream
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Laoag
+https://loveradiolaoag.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio La Union
+https://loveradiolaunion.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Tuguegarao
+https://lovetuguegarao.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Santiago
+https://lovesantiago.radioca.st/stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Lucena
 https://loveradiolucena.radioca.st/stream
 
