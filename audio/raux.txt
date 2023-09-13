@@ -124,7 +124,46 @@ http://listen.shoutcast.com/dyrccebuaksyonradyo648khz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Iloilo
 https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/aksyon_iloilo
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/DYHR_new_Logo.png/220px-DYHR_new_Logo.png" group-title="PH Radio" radio="true",Yes the Best Cebu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Dagupan
+https://loveradiodagupan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Baguio
+https://loveradiobaguio.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Lucena
+https://loveradiolucena.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Naga
+https://loveradionaga.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Cebu
+https://loveradiocebu.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Bacolod
+https://loveradiobacolod.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Iloilo
+https://loveradioiloilo.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Tacloban
+https://loveradiotacloban.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Davao
+https://loveradiodavao.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Gensan
+https://loveradiogensan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Butuan
+https://loveradiobutuan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Zamboanga
+https://lovezamboanga.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Dagupan
+https://yesfmcebu.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ckGWr91/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Cebu
 https://yesfmcebu.radioca.st/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Radyo5truefm.jpg/220px-Radyo5truefm.jpg" group-title="PH Radio" radio="true",Radyo5 True FM
