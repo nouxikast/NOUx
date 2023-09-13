@@ -262,11 +262,14 @@ https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dzrb.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/RadyoPilipinas2-logo.png/220px-RadyoPilipinas2-logo.png" group-title="PH Radio" radio="true",Radyo Pilipinas 2
 https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dzsr.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fm1ph-logo.png/220px-Fm1ph-logo.png" group-title="PH Radio" radio="true",FM1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fm1ph-logo.png/200px-Fm1ph-logo.png" group-title="PH Radio" radio="true",FM1
 https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dzrm.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fm2ph-logo.png/220px-Fm2ph-logo.png" group-title="PH Radio" radio="true",FM2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fm2ph-logo.png/200px-Fm2ph-logo.png" group-title="PH Radio" radio="true",FM2
 https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fm1ph-network-logo.png/200px-Fm1ph-network-logo.png" group-title="PH Radio" radio="true",FM1 Davao
+https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dxfo.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eaglefm.jpg/220px-Eaglefm.jpg" group-title="PH Radio" radio="true",Eagle FM 95.5
 https://s5.radio.co/s49bbdfa2a/listen
