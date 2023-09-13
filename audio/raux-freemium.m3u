@@ -109,11 +109,20 @@ https://a1.asurahosting.com:9410/radio.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="PH Radio" radio="true",Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="PH Radio" radio="true",Love Radio (AAC)
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNLAAC.aac
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes the Best
 https://s2.radio.co/sa85100da7/listen
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes the Best (AAC)
+https://playerservices.streamtheworld.com/api/livestream-redirect/YESTHEBEST_MNLAAC.aac
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg/250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png" group-title="PH Radio" radio="true",Easy Rock
 https://s4.radio.co/s778110174/listen
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg/250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png" group-title="PH Radio" radio="true",Easy Rock (AAC)
+https://playerservices.streamtheworld.com/api/livestream-redirect/EASYROCK_MNLAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin
 https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/radyo_natin
@@ -124,8 +133,113 @@ http://listen.shoutcast.com/dyrccebuaksyonradyo648khz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Iloilo
 https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/aksyon_iloilo
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/DYHR_new_Logo.png/220px-DYHR_new_Logo.png" group-title="PH Radio" radio="true",Yes the Best Cebu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Dagupan
+https://loveradiodagupan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Baguio
+https://loveradiobaguio.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Lucena
+https://loveradiolucena.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Naga
+https://loveradionaga.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Cebu
+https://loveradiocebu.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Bacolod
+https://loveradiobacolod.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Iloilo
+https://loveradioiloilo.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Tacloban
+https://loveradiotacloban.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Davao
+https://loveradiodavao.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Gensan
+https://loveradiogensan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Butuan
+https://loveradiobutuan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Zamboanga
+https://lovezamboanga.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Dagupan
+https://yesfmdagupan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Boracay
+https://yesfmboracay.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ckGWr91/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Cebu
 https://yesfmcebu.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Dumaguete
+https://yesfmdumaguete.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Zamboanga
+https://yesfmzamboanga.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best CDO
+https://yesfmcdo.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Iligan
+https://yesfmiligan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock Baguio
+https://easyrockbaguio.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock Cebu
+https://easyrockcebu.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock Bacolod
+https://easyrockbacolod.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock Iloilo
+https://easyrockiloilo.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock Boracay
+https://easyrockboracay.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock Davao
+https://easyrockdavao.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock CDO
+https://easyrockcagayan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Laguna
+https://wave.radyonatinfm.com/listen/dzva/laguna
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Laguna
+https://wave.radyonatinfm.com/listen/dzva/laguna
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Batangas
+https://xcite.radyonatinfm.com/listen/lemery/radio
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Lemery (Batangas)
+https://xcite.radyonatinfm.com/listen/lemery/radio
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Santiago (Isabela)
+https://pinas.radyonatinfm.com/listen/dwtr/santiago
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Iba (Zambales)
+https://phils.radyonatinfm.com/listen/dwrq/iba
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Pinamungajan (Cebu)
+https://audio.radyonatinfm.com/listen/dyrr/pinamungajan
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Ormoc (Leyte)
+https://fx.radyonatinfm.com/listen/dyxc/ormoc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Tagum (Davao Del Norte)
+https://ph.radyonatinfm.com/listen/dxwg/tagum
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Cotabato City (Maguindanao)
+https://amp.radyonatinfm.com/listen/dxtc/cotabato
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Radyo5truefm.jpg/220px-Radyo5truefm.jpg" group-title="PH Radio" radio="true",Radyo5 True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
@@ -148,11 +262,14 @@ https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dzrb.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/RadyoPilipinas2-logo.png/220px-RadyoPilipinas2-logo.png" group-title="PH Radio" radio="true",Radyo Pilipinas 2
 https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dzsr.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fm1ph-logo.png/220px-Fm1ph-logo.png" group-title="PH Radio" radio="true",FM1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fm1ph-logo.png/200px-Fm1ph-logo.png" group-title="PH Radio" radio="true",FM1
 https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dzrm.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fm2ph-logo.png/220px-Fm2ph-logo.png" group-title="PH Radio" radio="true",FM2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fm2ph-logo.png/200px-Fm2ph-logo.png" group-title="PH Radio" radio="true",FM2
 https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fm1ph-network-logo.png/200px-Fm1ph-network-logo.png" group-title="PH Radio" radio="true",FM1 Davao
+https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dxfo.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eaglefm.jpg/220px-Eaglefm.jpg" group-title="PH Radio" radio="true",Eagle FM 95.5
 https://s5.radio.co/s49bbdfa2a/listen
