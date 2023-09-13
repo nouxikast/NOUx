@@ -33,6 +33,9 @@ https://ytlive.phcnetwork.workers.dev/stream/dzxl5587/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dVuMSdfgN7.png" group-title="News",DZME RadyoTV
 https://ythls.onrender.com/channel/UC5D7OLxnIxhKu2m0R85Ki9A.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/206px-ABS-CBN_%282013%29.svg.png" group-title="GenEnt",ABS-CBN Entertainment (YT)
+https://ytlive.phcnetwork.workers.dev/stream/abscbnentertainment/master.m3u8
+
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="Free to Air",PTV
 https://qn-10135-spc-qb-1-1.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwAd4nLqHso-fEbwGziZPtsrj_574Cbh_7s3nenWOGS14)/dm/3/x5cr6b9/s/live-2.m3u8
 
