@@ -18,6 +18,9 @@ https://ytlive.phcnetwork.workers.dev/stream/senateofthephilippines/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/live/noux/prts2-logo.png" group-title="News",PRTS2 - Kamara
 https://ytlive.phcnetwork.workers.dev/stream/HouseofRepresentativesPH/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/rtvm.jpg" group-title="News",RTVM
+https://ytlive.phcnetwork.workers.dev/stream/radiotelevisionmalacanang/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
