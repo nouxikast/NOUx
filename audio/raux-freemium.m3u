@@ -284,31 +284,31 @@ https://s5.radio.co/s49bbdfa2a/listen
 https://securestreams7.autopo.st/?uri=http://103.36.17.18:8000/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News National/Manila
-https://securestreams7.autopo.st/?uri=http://makatistream.brigadanews.ph:8068/stream
+https://makatistream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Batangas
-https://securestreams7.autopo.st/?uri=http://batangasstream.brigadanews.ph:8040/stream
+https://batangasstream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Olongapo
-https://securestreams7.autopo.st/?uri=http://olongapostream.brigadanews.ph:8058/stream
+https://olongapostream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Pampanga
-https://securestreams7.autopo.st/?uri=http://pampangastream.brigadanews.ph:8056/stream
+https://pampangastream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Cebu
-https://securestreams7.autopo.st/?uri=http://cebustream.brigadanews.ph:8026/stream
+https://cebustream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News GenSan
-https://securestreams7.autopo.st/?uri=http://gensanstream.brigadanews.ph:8000/stream
+https://gensanstream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News CDO
-https://securestreams7.autopo.st/?uri=http://cagayanstream.brigadanews.ph:8010/stream
+https://cagayanstream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Davao
-https://securestreams7.autopo.st/?uri=http://davaostream.brigadanews.ph:8004/stream
+https://davaostream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Zamboanga
-https://securestreams7.autopo.st/?uri=http://zamboangastream.brigadanews.ph:8018/stream
+https://zamboangastream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/200px-Wish_107.5_%282015%29.svg.png" group-title="PH Radio" radio="true",Wish 107.5
 https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
