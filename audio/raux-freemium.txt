@@ -284,7 +284,7 @@ https://s5.radio.co/s49bbdfa2a/listen
 https://securestreams7.autopo.st/?uri=http://103.36.17.18:8000/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News National/Manila
-https://securestreams7.autopo.st/?uri=http://makatistream.brigadanews.ph:8068/stream
+https://makatistream.brigadanews.ph/?icy=http
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Batangas
 https://securestreams7.autopo.st/?uri=http://batangasstream.brigadanews.ph:8040/stream
