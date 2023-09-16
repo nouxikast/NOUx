@@ -301,6 +301,12 @@ https://securestreams7.autopo.st/?uri=http://18.141.67.248:8058/stream
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Cebu
 https://securestreams7.autopo.st/?uri=http://18.141.67.248:8026/stream
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Bacolod
+https://securestreams7.autopo.st/?uri=http://18.141.67.248:8038/stream
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News Tacloban
+https://securestreams7.autopo.st/?uri=http://18.141.67.248:8064/stream
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News GenSan
 https://securestreams7.autopo.st/?uri=http://18.141.67.248:8000/stream
 
