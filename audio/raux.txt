@@ -910,7 +910,7 @@ https://stream.revma.ihrhls.com/zc173
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/106.7_KROQ_logo_%282022%29.png" group-title="US Radio" radio="true",106.7 KROQ | Los Angeles
 https://live.amperwave.net/manifest/audacy-kroqfmaac-imc
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5f57fa341b8aceca3cd59d86?ops=gravity(%22center%22),contain(200,200)&quality=80" group-title="US Radio" radio="true",BIN AM640 | Chicago
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wmfn.png" group-title="US Radio" radio="true",BIN AM640 | Chicago
 https://stream.revma.ihrhls.com/zc9553
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/WGNAMLogoasof2019.webp/250px-WGNAMLogoasof2019.webp.png" group-title="US Radio" radio="true",WGN Radio 720 | Chicago
@@ -925,10 +925,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC.aac
 #EXTINF:-1 tvg-logo="https://assets.espn.go.com/i/espn/networks_shows/radio/crops/500-dark/espn_chicago.png" group-title="US Radio" radio="true",ESPN Radio Chicago (AM1000) | Chicago
 https://live.amperwave.net/direct/goodkarma-wmvpamaac-ibc1
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/845.png?ops=fit(200%2C200)" group-title="US Radio" radio="true",Inspiration 1390AM | Chicago
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wgrb.png" group-title="US Radio" radio="true",Inspiration 1390AM | Chicago
 https://stream.revma.ihrhls.com/zc845
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/61c2a32924639eb52ebe097c?ops=fit(200%2C200)" group-title="US Radio" radio="true",93.9 Lite FM | Chicago
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wlitfm.png" group-title="US Radio" radio="true",93.9 Lite FM | Chicago
 https://stream.revma.ihrhls.com/zc853
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/WLS-FM_logo.svg/200px-WLS-FM_logo.svg.png" group-title="US Radio" radio="true",WLS 94.7 FM | Chicago
@@ -937,7 +937,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s21577/images/logog.jpg" group-title="US Radio" radio="true",ROCK 95.5 | Chicago
 https://stream.revma.ihrhls.com/zc857
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/641b4a9ade66c5274866b3fc?ops=gravity(%22center%22),contain(200,200)&quality=80" group-title="US Radio" radio="true",BIG 95.5 (HD2) | Chicago
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wchihd2.png" group-title="US Radio" radio="true",BIG 95.5 (HD2) | Chicago
 https://stream.revma.ihrhls.com/zc8731
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/WKQX-Q101-Chicago-logo.png/200px-WKQX-Q101-Chicago-logo.png" group-title="US Radio" radio="true",Q101 (101.1FM) | Chicago
@@ -946,13 +946,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC.aac
 #EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/359/2018/03/07183255/wlup-logo_800w_01.png" group-title="US Radio" radio="true",The Loop (101.1 HD2/Online) | Chicago
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLUPFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/865.png?ops=fit(200%2C200)" group-title="US Radio" radio="true",V103 (102.7FM) | Chicago
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wvaz.png" group-title="US Radio" radio="true",V103 (102.7FM) | Chicago
 https://stream.revma.ihrhls.com/zc865
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/9910fd9c-5656-4c73-bda8-0649474337f7?ops=fit(200%2C200)" group-title="US Radio" radio="true",103.5 Kiss FM | Chicago
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wkscfm.png" group-title="US Radio" radio="true",103.5 Kiss FM | Chicago
 https://stream.revma.ihrhls.com/zc849
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/580d59cf-bf13-4c07-a526-ec53e059384e.png?ops=fit(200%2C200)" group-title="US Radio" radio="true",WGCI 107.5 | Chicago
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wgci.png" group-title="US Radio" radio="true",WGCI 107.5 | Chicago
 https://stream.revma.ihrhls.com/zc841
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/560_KSFO_logo_2016.svg/200px-560_KSFO_logo_2016.svg.png" group-title="US Radio" radio="true",Talk Radio 560 KSFO | San Francisco
@@ -964,25 +964,25 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/KGO_810_The_Spread_logo.png" group-title="US Radio" radio="true",KGO-AM - 810 The Spread | San Francisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5efb0ca56213a0c6338f84cc?ops=fit(200%2C200)" group-title="US Radio" radio="true",BIN AM910 Bay Area | San Francisco
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sfc/kksf.png" group-title="US Radio" radio="true",BIN AM910 Bay Area | San Francisco
 https://stream.revma.ihrhls.com/zc297
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165740/images/logog.png" group-title="US Radio" radio="true",Bloomberg Radio SF (AM960) | San Francisco
 https://stream.revma.ihrhls.com/zc310
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/305.png?ops=fit(200%2C200)" group-title="US Radio" radio="true",Wild 94.9 | San Francisco
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sfc/kyld.png" group-title="US Radio" radio="true",Wild 94.9 | San Francisco
 https://stream.revma.ihrhls.com/zc305
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/3ab68014-5420-4ab6-879f-78d9a77ccb4d?ops=fit(200%2C200)" group-title="US Radio" radio="true",98.1 The Breeze | San Francisco
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sfc/kisq.png" group-title="US Radio" radio="true",98.1 The Breeze | San Francisco
 https://stream.revma.ihrhls.com/zc285
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60e5dd2bde61a98132fdc143?ops=fit(200%2C200)" group-title="US Radio" radio="true",Star 101.3 | San Francisco
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sfc/kioi.png" group-title="US Radio" radio="true",Star 101.3 | San Francisco
 https://stream.revma.ihrhls.com/zc281
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60abccbe0ffe955d41a547d0?ops=fit(200%2C200)" group-title="US Radio" radio="true",80s+ FM 103.7 | San Francisco
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sfc/kosf.png" group-title="US Radio" radio="true",80s+ FM 103.7 | San Francisco
 https://stream.revma.ihrhls.com/zc4342
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5bcfe2589c3f34f55c1ccdfb?ops=fit(200%2C200)" group-title="US Radio" radio="true",106.1 KMEL | San Francisco
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sfc/kmel.png" group-title="US Radio" radio="true",106.1 KMEL | San Francisco
 https://stream.revma.ihrhls.com/zc293
 
 #EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/190/2022/12/16083000/KSAN-FM-Sitelogo-2022-12-16.png" group-title="US Radio" radio="true",107.7 The Bone | San Francisco
