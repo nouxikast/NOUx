@@ -778,6 +778,9 @@ https://stream.revma.ihrhls.com/zc6410
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-christmasrnb.png" group-title="US Radio" radio="true",iHeartChristmas R&B | iHeart
 https://stream.revma.ihrhls.com/zc6136
 
+#EXTINF:-1 tvg-logo="https://live.mystreamplayer.com/configs/images/frn_icon-new.png" group-title="US Radio" radio="true",Family Radio
+https://ais-sa3.cdnstream1.com/2640_64.aac
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KLOVE_2014.svg/200px-KLOVE_2014.svg.png" group-title="US Radio" radio="true",K-Love
 https://maestro.emfcdn.com/stream_for/k-love/web/aac
 
@@ -1063,6 +1066,9 @@ https://stream.revma.ihrhls.com/zc237
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/kioz.png" group-title="US Radio" radio="true",Rock 105.3 | San Diego
 https://stream.revma.ihrhls.com/zc245
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WGBH_89.7_logo_%282020%29.svg/220px-WGBH_89.7_logo_%282020%29.svg.png" group-title="US Radio" radio="true",GBH 89.7 | Boston
+https://wgbh-live.streamguys1.com/wgbh
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wrko.png" group-title="US Radio" radio="true",WRKO AM680 | Boston
 https://stream.revma.ihrhls.com/zc7750
 
@@ -1075,14 +1081,23 @@ https://stream.revma.ihrhls.com/zc4705
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wjmn.png" group-title="US Radio" radio="true",JAM'N 94.5 | Boston
 https://stream.revma.ihrhls.com/zc1089
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/WHRB_95.3_logo.svg/220px-WHRB_95.3_logo.svg.png" group-title="US Radio" radio="true",WHRB 95.3FM (Harvard) | Boston
+https://stream.whrb.org/whrb-he-aac
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wzrm.png" group-title="US Radio" radio="true",Rumba 97.7 | Boston
 https://stream.revma.ihrhls.com/zc7731
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WCRB_Classical_99.5_logo.svg/220px-WCRB_Classical_99.5_logo.svg.png" group-title="US Radio" radio="true",CRB Classical 99.5 | Boston
+https://wgbh-live.streamguys1.com/classical-hi
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wzlx.png" group-title="US Radio" radio="true",100.7 WZLX | Boston
 https://stream.revma.ihrhls.com/zc7730
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wbwl.png" group-title="US Radio" radio="true",101.7 The Bull | Boston
 https://stream.revma.ihrhls.com/zc6586
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/WXLO_104.5_XLO_logo.png" group-title="US Radio" radio="true",104.5 XLO | Boston
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXLOFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wxksfm.png" group-title="US Radio" radio="true",Kiss 108 (107.9FM) | Boston
 https://stream.revma.ihrhls.com/zc1097
