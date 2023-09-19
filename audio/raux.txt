@@ -334,6 +334,9 @@ https://stream.zeno.fm/69b1kf7q0y5tv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Iloilo
 https://stream.zeno.fm/gzudz59nz9duv
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rrF9wAtD26.png" group-title="PH Radio" radio="true",Boracay Beach Radio 97.3
+https://ssl1.viastreaming.net:8390/;stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/DWWW_774_logo.png" group-title="PH Radio" radio="true",DWWW 774
 https://stream.zeno.fm/kc3cct89sxquv
 
