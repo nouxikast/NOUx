@@ -931,6 +931,9 @@ https://live.amperwave.net/direct/goodkarma-wmvpamaac-ibc1
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wgrb.png" group-title="US Radio" radio="true",Inspiration 1390AM | Chicago
 https://stream.revma.ihrhls.com/zc845
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/WBEZ_91.5_logo.png/200px-WBEZ_91.5_logo.png" group-title="US Radio" radio="true",WBEZ 91.5 | Chicago
+https://stream.wbez.org/wbez64-web.aac
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wlitfm.png" group-title="US Radio" radio="true",93.9 Lite FM | Chicago
 https://stream.revma.ihrhls.com/zc853
 
@@ -943,6 +946,9 @@ https://stream.revma.ihrhls.com/zc857
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wchihd2.png" group-title="US Radio" radio="true",BIG 95.5 (HD2) | Chicago
 https://stream.revma.ihrhls.com/zc8731
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Wfmt-logo.png" group-title="US Radio" radio="true",98.7 WFMT | Chicago
+https://wfmt.streamguys1.com/main128.aac
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/WKQX-Q101-Chicago-logo.png/200px-WKQX-Q101-Chicago-logo.png" group-title="US Radio" radio="true",Q101 (101.1FM) | Chicago
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC.aac
 
@@ -954,6 +960,9 @@ https://stream.revma.ihrhls.com/zc865
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wkscfm.png" group-title="US Radio" radio="true",103.5 Kiss FM | Chicago
 https://stream.revma.ihrhls.com/zc849
+
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WSRBFM.png" group-title="US Radio" radio="true",106.3 WSRB | Chicago
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSRBFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/chi/wgci.png" group-title="US Radio" radio="true",WGCI 107.5 | Chicago
 https://stream.revma.ihrhls.com/zc841
