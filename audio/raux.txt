@@ -1024,9 +1024,6 @@ https://stream.revma.ihrhls.com/zc237
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/kioz.png" group-title="US Radio" radio="true",Rock 105.3 | San Diego
 https://stream.revma.ihrhls.com/zc245
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WGBH_89.7_logo_%282020%29.svg/220px-WGBH_89.7_logo_%282020%29.svg.png" group-title="US Radio" radio="true",GBH 89.7 | Boston
-https://wgbh-live.streamguys1.com/wgbh
-
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wrko.png" group-title="US Radio" radio="true",WRKO AM680 | Boston
 https://stream.revma.ihrhls.com/zc7750
 
@@ -1035,6 +1032,9 @@ https://stream.revma.ihrhls.com/zc7729
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wxksam.png" group-title="US Radio" radio="true",Talk AM1200 | Boston
 https://stream.revma.ihrhls.com/zc4705
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WGBH_89.7_logo_%282020%29.svg/220px-WGBH_89.7_logo_%282020%29.svg.png" group-title="US Radio" radio="true",GBH 89.7 | Boston
+https://wgbh-live.streamguys1.com/wgbh
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wjmn.png" group-title="US Radio" radio="true",JAM'N 94.5 | Boston
 https://stream.revma.ihrhls.com/zc1089
