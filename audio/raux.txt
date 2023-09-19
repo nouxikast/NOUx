@@ -988,46 +988,49 @@ https://stream.revma.ihrhls.com/zc293
 #EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/190/2022/12/16083000/KSAN-FM-Sitelogo-2022-12-16.png" group-title="US Radio" radio="true",107.7 The Bone | San Francisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSANFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63108cec38128da97573acf5?ops=gravity(%22center%22),contain(200,200)&quality=80" group-title="US Radio" radio="true",San Diego Sports 760 | San Diego
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/kgbam.png" group-title="US Radio" radio="true",San Diego Sports 760 | San Diego
 https://stream.revma.ihrhls.com/zc8528
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/241.png?ops=fit(200%2C200)" group-title="US Radio" radio="true",Channel 93.3 | San Diego
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/klsd.png" group-title="US Radio" radio="true",The Patriot 1360 | San Diego
+https://stream.revma.ihrhls.com/zc8528
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/khtsfm.png" group-title="US Radio" radio="true",Channel 93.3 | San Diego
 https://stream.revma.ihrhls.com/zc241
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/603e4afac693cb5cbb7b0fb2?ops=fit(200%2C200)" group-title="US Radio" radio="true",Star 94.1 | San Diego
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/kmyi.png" group-title="US Radio" radio="true",Star 94.1 | San Diego
 https://stream.revma.ihrhls.com/zc253
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/74c5c527-bfaa-488b-8f08-7bddb1da79ad?ops=fit(200%2C200)" group-title="US Radio" radio="true",JAM'N 95.7 | San Diego
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/kssx.png" group-title="US Radio" radio="true",JAM'N 95.7 | San Diego
 https://stream.revma.ihrhls.com/zc261
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5e3c96ecc14e4b6a5b3590a8?ops=gravity(%22center%22),contain(200,200)&quality=80" group-title="US Radio" radio="true",101.5 KGB | San Diego
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/kgbfm.png" group-title="US Radio" radio="true",101.5 KGB | San Diego
 https://stream.revma.ihrhls.com/zc237
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/85f93887-a94c-4b33-a696-e195d99a6a54?ops=fit(200%2C200)" group-title="US Radio" radio="true",Rock 105.3 | San Diego
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/sdc/kioz.png" group-title="US Radio" radio="true",Rock 105.3 | San Diego
 https://stream.revma.ihrhls.com/zc245
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/1d3ef511-9e91-400e-958b-31d6f3fd5e4b?ops=fit(200%2C200)" group-title="US Radio" radio="true",WRKO AM680 | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wrko.png" group-title="US Radio" radio="true",WRKO AM680 | Boston
 https://stream.revma.ihrhls.com/zc7750
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/62bdc6de4ab91cecbcfa0ec6?ops=fit(200%2C200)" group-title="US Radio" radio="true",WBZ NewsRadio 1030 | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wbzam.png" group-title="US Radio" radio="true",WBZ NewsRadio 1030 | Boston
 https://stream.revma.ihrhls.com/zc7729
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6275e2f3-80b0-4c14-8866-9a3b1be5abd5?ops=fit(200%2C200)" group-title="US Radio" radio="true",Talk AM1200 | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wxksam.png" group-title="US Radio" radio="true",Talk AM1200 | Boston
 https://stream.revma.ihrhls.com/zc4705
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/63b443e0c8c844b0b14ad047?ops=fit(200%2C200)" group-title="US Radio" radio="true",JAM'N 94.5 | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wjmn.png" group-title="US Radio" radio="true",JAM'N 94.5 | Boston
 https://stream.revma.ihrhls.com/zc1089
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60b8f5b5a8ec56aac1040bc8?ops=fit(200%2C200)" group-title="US Radio" radio="true",Rumba 97.7 | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wzrm.png" group-title="US Radio" radio="true",Rumba 97.7 | Boston
 https://stream.revma.ihrhls.com/zc7731
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/15b3a809-41ed-4f5e-85ef-aab7aef2c54c?ops=fit(200%2C200)" group-title="US Radio" radio="true",100.7 WZLX | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wzlx.png" group-title="US Radio" radio="true",100.7 WZLX | Boston
 https://stream.revma.ihrhls.com/zc7730
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/3e395e21-2f92-48a5-9160-22f47f0535f5.png?ops=fit(200%2C200)" group-title="US Radio" radio="true",101.7 The Bull | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wbwl.png" group-title="US Radio" radio="true",101.7 The Bull | Boston
 https://stream.revma.ihrhls.com/zc6586
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/1097.png?ops=fit(200%2C200)" group-title="US Radio" radio="true",Kiss 108 (107.9FM) | Boston
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wxksfm.png" group-title="US Radio" radio="true",Kiss 108 (107.9FM) | Boston
 https://stream.revma.ihrhls.com/zc1097
 
 #EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="US Radio" radio="true",The Answer AM690/FM94.3 | Hawaii
