@@ -583,7 +583,7 @@ https://stream.revma.ihrhls.com/zc6395
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-kiss.png" group-title="US Radio" radio="true",KISS | iHeart
 https://stream.revma.ihrhls.com/zc7362
 
-#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-at40.png" group-title="US Radio" radio="true",American Top 40 | iHeart
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/American_Top_40_logo.svg/280px-American_Top_40_logo.svg.png" group-title="US Radio" radio="true",American Top 40 | iHeart
 https://stream.revma.ihrhls.com/zc4802
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-literock.png" group-title="US Radio" radio="true",Lite Rock | iHeart
