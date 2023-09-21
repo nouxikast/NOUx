@@ -571,7 +571,7 @@ https://tunein.streamguys1.com/progressivevoices
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxnNTNc/4732.png" group-title="US Radio" radio="true",Fox Sports Radio
 https://stream.revma.ihrhls.com/zc4732
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b895d646-147e-4615-9852-9d6b1bc84f28?ops=fit(200%2C200)" group-title="US Radio" radio="true",ESPN Radio
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/espn-radio.png" group-title="US Radio" radio="true",ESPN Radio
 https://live.wostreaming.net/direct/espn-network-48
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-hitnation.png" group-title="US Radio" radio="true",Hit Nation | iHeart
