@@ -1060,6 +1060,87 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WXLOFMAAC.aac
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/bos/wxksfm.png" group-title="US Radio" radio="true",Kiss 108 (107.9FM) | Boston
 https://stream.revma.ihrhls.com/zc1097
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/bin-dallas.png" group-title="US Radio" radio="true",BIN Dallas 970AM/1630AM | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc8821
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/kfxr.png" group-title="US Radio" radio="true",Talk Radio 1190AM | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc4276
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/kzps.png" group-title="US Radio" radio="true",Lone Star 92.5 | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc3379
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/kegl.png" group-title="US Radio" radio="true",97.1 The Freak | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc2241
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/keglhd2.png" group-title="US Radio" radio="true",97.1 The Eagle (HD2) | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc9614
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/kdge.png" group-title="US Radio" radio="true",Star 102.1 | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc2815
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/kdmx.png" group-title="US Radio" radio="true",Mix 102.9 | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc2237
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dfw/khks.png" group-title="US Radio" radio="true",106.1 Kiss FM | Dallas-Fort Worth
+https://stream.revma.ihrhls.com/zc2245
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/ktkr.png" group-title="US Radio" radio="true",The Ticket 760 | San Antonio
+https://stream.revma.ihrhls.com/zc2353
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/woai.png" group-title="US Radio" radio="true",Newsradio 1200 WOAI | San Antonio
+https://stream.revma.ihrhls.com/zc2361
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/krpt.png" group-title="US Radio" radio="true",92.5/93.3 The Bull | San Antonio
+https://stream.revma.ihrhls.com/zc6168
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/kxxm.png" group-title="US Radio" radio="true",96.1 NOW | San Antonio
+https://stream.revma.ihrhls.com/zc2357
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/kaja.png" group-title="US Radio" radio="true",KJ97 (97.3FM) | San Antonio
+https://stream.revma.ihrhls.com/zc2337
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/kqxtfm.png" group-title="US Radio" radio="true",Q 101.9 | San Antonio
+https://stream.revma.ihrhls.com/zc2341
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/kqxthd3.png" group-title="US Radio" radio="true",La Preciosa 105.7 (101.9-HD3) | San Antonio
+https://stream.revma.ihrhls.com/zc2341
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/kzep.png" group-title="US Radio" radio="true",104.5 Latino Hits | San Antonio
+https://stream.revma.ihrhls.com/zc4051
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/satx/kzephd2.png" group-title="US Radio" radio="true",KZEP Classic Rock (104.5-HD2) | San Antonio
+https://stream.revma.ihrhls.com/zc6639
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/khow.png" group-title="US Radio" radio="true",Talkradio 630 KHOW | Denver
+https://stream.revma.ihrhls.com/zc377
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/kdfd.png" group-title="US Radio" radio="true",Freedom 93.7 (760AM) | Denver
+https://stream.revma.ihrhls.com/zc381
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/koa.png" group-title="US Radio" radio="true",KOA 850AM/94.1FM | Denver
+https://stream.revma.ihrhls.com/zc389
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/ktcl.png" group-title="US Radio" radio="true",Channel 93.3 | Denver
+https://stream.revma.ihrhls.com/zc397
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/kdht.png" group-title="US Radio" radio="true",Hits 95.7 | Denver
+https://stream.revma.ihrhls.com/zc2795
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/kbco.png" group-title="US Radio" radio="true",97.3 KBCO | Denver
+https://stream.revma.ihrhls.com/zc2804
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/krfx.png" group-title="US Radio" radio="true",103.5 The Fox | Denver
+https://stream.revma.ihrhls.com/zc393
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/kwbl.png" group-title="US Radio" radio="true",106.7 The Bull | Denver
+https://stream.revma.ihrhls.com/zc7784
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/kbpi.png" group-title="US Radio" radio="true",107.9 KBPI | Denver
+https://stream.revma.ihrhls.com/zc373
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/den/ktcl.png" group-title="US Radio" radio="true",Channel 93.3 | Denver
+https://stream.revma.ihrhls.com/zc6168
+
 #EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="US Radio" radio="true",The Answer AM690/FM94.3 | Hawaii
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC.aac
 
