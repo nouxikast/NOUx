@@ -721,6 +721,9 @@ https://stream.revma.ihrhls.com/zc8478
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-rumba.png" group-title="US Radio" radio="true",Rumba (Spanish) | iHeart
 https://stream.revma.ihrhls.com/zc4451
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-elpatron.png" group-title="US Radio" radio="true",El Patron (Regional Mexican) | iHeart
+https://stream.revma.ihrhls.com/zc7004
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-up.png" group-title="US Radio" radio="true",Up! (Contemporary Christian) | iHeart
 https://stream.revma.ihrhls.com/zc7203
 
