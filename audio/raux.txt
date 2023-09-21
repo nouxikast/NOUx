@@ -1150,8 +1150,17 @@ https://stream.revma.ihrhls.com/zc41
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/koy.png" group-title="US Radio" radio="true",AM1230/93.7FM El Patron | Phoenix
 https://stream.revma.ihrhls.com/zc53
 
-#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/kfyi.png" group-title="US Radio" radio="true",550 KFYI | Phoenix
-https://stream.revma.ihrhls.com/zc37
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/kyot.png" group-title="US Radio" radio="true",95.5 The Mountain | Phoenix
+https://stream.revma.ihrhls.com/zc57
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/kmxp.png" group-title="US Radio" radio="true",Mix 96.9 | Phoenix
+https://stream.revma.ihrhls.com/zc45
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/knixfm.png" group-title="US Radio" radio="true",102.5 KNIX | Phoenix
+https://stream.revma.ihrhls.com/zc49
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/kzzp.png" group-title="US Radio" radio="true",104.7 Kiss FM | Phoenix
+https://stream.revma.ihrhls.com/zc61
 
 #EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="US Radio" radio="true",The Answer AM690/FM94.3 | Hawaii
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC.aac
