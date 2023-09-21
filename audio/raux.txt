@@ -538,6 +538,9 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByVyVrc/voa-logo-1.png" group-title="International Radio" radio="true",VOA Radio
 https://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/VOA1_logo.png/220px-VOA1_logo.png" group-title="International Radio" radio="true",VOA1 The Hits
+https://voa-22.akacast.akamaistream.net/7/48/322034/v1/ibb.akacast.akamaistream.net/voa-22
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="International Radio" radio="true",CNN International (audio)
 https://tunein.streamguys1.com/CNNi
 
