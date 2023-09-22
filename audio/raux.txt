@@ -790,6 +790,9 @@ https://stream.revma.ihrhls.com/zc6410
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-christmasrnb.png" group-title="US Radio" radio="true",iHeartChristmas R&B | iHeart
 https://stream.revma.ihrhls.com/zc6136
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-festivalradio.png" group-title="US Radio" radio="true",iHeartRadio Music Festival | iHeart
+https://stream.revma.ihrhls.com/zc5158
+
 #EXTINF:-1 tvg-logo="https://live.mystreamplayer.com/configs/images/frn_icon-new.png" group-title="US Radio" radio="true",Family Radio
 https://ais-sa3.cdnstream1.com/2640_64.aac
 
