@@ -1219,6 +1219,9 @@ https://stream.revma.ihrhls.com/zc49
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/kzzp.png" group-title="US Radio" radio="true",104.7 Kiss FM | Phoenix
 https://stream.revma.ihrhls.com/zc61
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Hitz_104.9_KRCZ.jpg" group-title="US Radio" radio="true",Hitz 104.9 | Visalia, CA
+https://live.wostreaming.net/direct/momentum-kcrzfmaac-ibc2
+
 #EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="US Radio" radio="true",The Answer AM690/FM94.3 | Hawaii
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC.aac
 
