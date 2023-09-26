@@ -1222,6 +1222,30 @@ https://stream.revma.ihrhls.com/zc49
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/kzzp.png" group-title="US Radio" radio="true",104.7 Kiss FM | Phoenix
 https://stream.revma.ihrhls.com/zc61
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wust.png" group-title="US Radio" radio="true",DMV's BIN 1120 | Washington DC
+https://stream.revma.ihrhls.com/zc8726
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wtsd.png" group-title="US Radio" radio="true",1190 iHeartSports DC | Washington DC
+https://stream.revma.ihrhls.com/zc7311
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/washfm.png" group-title="US Radio" radio="true",97.1 WASH-FM | Washington DC
+https://stream.revma.ihrhls.com/zc2501
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wmzq.png" group-title="US Radio" radio="true",98.7 WMZQ | Washington DC
+https://stream.revma.ihrhls.com/zc2513
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wiht.png" group-title="US Radio" radio="true",Hot 99.5 | Washington DC
+https://stream.revma.ihrhls.com/zc2509
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wbigfm.png" group-title="US Radio" radio="true",BIG 100 (100.3FM) | Washington DC
+https://stream.revma.ihrhls.com/zc2505
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wwdc.png" group-title="US Radio" radio="true",DC101 (101.1FM) | Washington DC
+https://stream.revma.ihrhls.com/zc2525
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wmzqhd2.png" group-title="US Radio" radio="true",Freedom 104.7 (WMZQ 98.7-HD2) | Washington DC
+https://stream.revma.ihrhls.com/zc9914
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Hitz_104.9_KRCZ.jpg" group-title="US Radio" radio="true",Hitz 104.9 | Visalia, CA
 https://live.wostreaming.net/direct/momentum-kcrzfmaac-ibc2
 
