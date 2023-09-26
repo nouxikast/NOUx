@@ -1231,7 +1231,7 @@ https://stream.revma.ihrhls.com/zc7311
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/washfm.png" group-title="US Radio" radio="true",97.1 WASH-FM | Washington DC
 https://stream.revma.ihrhls.com/zc2501
 
-#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wmzq.png" group-title="US Radio" radio="true",98.7 WMZQ | Washington DC
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wmzqfm.png" group-title="US Radio" radio="true",98.7 WMZQ | Washington DC
 https://stream.revma.ihrhls.com/zc2513
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wiht.png" group-title="US Radio" radio="true",Hot 99.5 | Washington DC
