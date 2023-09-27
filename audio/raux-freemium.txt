@@ -1222,11 +1222,35 @@ https://stream.revma.ihrhls.com/zc49
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/phx/kzzp.png" group-title="US Radio" radio="true",104.7 Kiss FM | Phoenix
 https://stream.revma.ihrhls.com/zc61
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/WSBN-Sports-Capitol-logo-2019.png" group-title="US Radio" radio="true",ESPN 630AM DC | Washington DC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAMAAC.aac
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wust.png" group-title="US Radio" radio="true",DMV's BIN 1120 | Washington DC
 https://stream.revma.ihrhls.com/zc8726
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wtsd.png" group-title="US Radio" radio="true",1190 iHeart Sports DC | Washington DC
 https://stream.revma.ihrhls.com/zc7311
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/WFED_Federal_News_Radio_logo.png/200px-WFED_Federal_News_Radio_logo.png" group-title="US Radio" radio="true",Federal News Network 1500AM | Washington DC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/C-SPAN_Radio.svg/200px-C-SPAN_Radio.svg.png" group-title="US Radio" radio="true",C-SPAN Radio (90.1FM) | Washington DC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/64/ba/25179/c300.png" group-title="US Radio" radio="true",WETA 90.9 FM | Washington DC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/WHUR.png" group-title="US Radio" radio="true",WHUR 96.3 FM | Washington DC
+https://ais-sa1.streamon.fm/7028_48k.aac
+
+#EXTINF:-1 tvg-logo="http://whur.com/wp-content/uploads/2021/03/qs_logomain2.png" group-title="US Radio" radio="true",The Quiet Storm Station (96.3-HD2) | Washington DC
+https://ais-sa1.streamon.fm/7167_48k.aac
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/streaming-player-assets/WHURHD3/custom/images/whurhd3-logo-20170929132451.png" group-title="US Radio" radio="true",WHBC (96.3-HD3) | Washington DC
+https://ais-sa1.streamon.fm/7165_48k.aac
+
+#EXTINF:-1 tvg-logo="https://r1d720.a2cdn1.secureserver.net/wp-content/uploads/2017/08/dc-radio-logo.png" group-title="US Radio" radio="true",DC Radio (96.3-HD4) | Washington DC
+https://ais-sa1.streamon.fm/7043_48k.aac
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/washfm.png" group-title="US Radio" radio="true",97.1 WASH-FM | Washington DC
 https://stream.revma.ihrhls.com/zc2501
@@ -1243,8 +1267,14 @@ https://stream.revma.ihrhls.com/zc2505
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wwdc.png" group-title="US Radio" radio="true",DC101 (101.1FM) | Washington DC
 https://stream.revma.ihrhls.com/zc2525
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_of_WTOP-FM_%282014%29.png/200px-Logo_of_WTOP-FM_%282014%29.png" group-title="US Radio" radio="true",WTOP 103.5 | Washington DC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFMAAC.aac
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/dc/wmzqhd2.png" group-title="US Radio" radio="true",Freedom 104.7 (WMZQ 98.7-HD2) | Washington DC
 https://stream.revma.ihrhls.com/zc9914
+
+#EXTINF:-1 tvg-logo="https://express-images.franklymedia.com/6616/sites/238/2022/01/18160857/WMAL-FM-Sitelogo-2022-01-18.png" group-title="US Radio" radio="true",Newstalk 105.9 WMAL | Washington DC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Hitz_104.9_KRCZ.jpg" group-title="US Radio" radio="true",Hitz 104.9 | Visalia, CA
 https://live.wostreaming.net/direct/momentum-kcrzfmaac-ibc2
