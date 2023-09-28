@@ -1279,5 +1279,53 @@ https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_lo
 #EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_asian_network/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Asian Network
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_asian_network.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/LBC_Radio.png" group-title="UK Radio" radio="true",LBC
+https://media-ssl.musicradio.com/LBCLondon
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/220px-Capital_2022.svg.png" group-title="UK Radio" radio="true",Capital
+https://media-ssl.musicradio.com/CapitalMP3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/220px-Capital_2022.svg.png" group-title="UK Radio" radio="true",Capital Xtra
+https://ice-the.musicradio.com/CapitalXTRANationalMP3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/220px-Capital_2022.svg.png" group-title="UK Radio" radio="true",Capital Dance
+https://media-ssl.musicradio.com/CapitalDance
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/220px-Capital_2022.svg.png" group-title="UK Radio" radio="true",Capital Chill
+https://media-ssl.musicradio.com/CapitalChillMP3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/220px-Classic_FM_logo.svg.png" group-title="UK Radio" radio="true",Classic FM
+https://media-the.musicradio.com/ClassicFM
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/220px-The_Heart_Network_logo.svg.png" group-title="UK Radio" radio="true",Heart
+https://media-ssl.musicradio.com/HeartUK
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Gold_%28Radio%29_logo.png/220px-Gold_%28Radio%29_logo.png" group-title="UK Radio" radio="true",Gold
+https://media-ssl.musicradio.com/Gold
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/220px-Classic_FM_logo.svg.png" group-title="UK Radio" radio="true",Smooth Radio
+https://ice-sov.musicradio.com/SmoothUKMP3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3pTepgqLVc.png" group-title="UK Radio" radio="true",Radio X
+https://media-ssl.musicradio.com/RadioXLondon
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/UaJTkPUjS2.png" group-title="UK Radio" radio="true",Absolute Radio
+http://tx.planetradio.co.uk/http_live_bauer.php?i=absoluteradiohigh.aac&awparams=loggedin:false&amsparams=playerid:BMUK_tunein
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Talksport_logo.png/220px-Talksport_logo.png" group-title="UK Radio" radio="true",Talksport
+https://radio.talksport.com/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Talksport_logo.png/220px-Talksport_logo.png" group-title="UK Radio" radio="true",Talksport 2
+https://radio.talksport.com/stream2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/TalkRadio_2022.png/220px-TalkRadio_2022.png" group-title="UK Radio" radio="true",Talkradio
+https://radio.talkradio.co.uk/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/VirginRadio.png" group-title="UK Radio" radio="true",Virgin Radio UK
+https://radio.virginradio.co.uk/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jehvybnq4jgc.png" group-title="UK Radio" radio="true",Times Radio
+https://timesradio.wireless.radio/stream
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwCXp9h/sky-news-w1.png" group-title="International Radio" radio="true",Sky News Radio Australia
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
