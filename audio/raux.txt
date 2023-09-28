@@ -1240,5 +1240,44 @@ https://stream.zeno.fm/baemze0kcc9uv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbV6Qww/wnn-social0.png" group-title="International Radio" radio="true",WNN / TALKAST (Progressive Talk)
 https://stream.zeno.fm/6lx1lnjwvvsuv
 
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 1
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_one.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_1xtra/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 1Xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_1xtra.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_dance/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 1Dance
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/bbc_radio_one_dance.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_relax/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 1Relax
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/bbc_radio_one_relax.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_two/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 2
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_two.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_three/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 3
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_three.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_four/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 4
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/services/bbc_radio_fourlw/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 4 LW
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_fourlw.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_four_extra/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 4 Extra
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_five_live/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 5 Live
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_five.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_five_live_sports_extra/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 5 Live Sports Extra
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_two.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_6music/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Radio 6
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_6music.m3u8
+
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_asian_network/blocks-white_default.svg" group-title="UK Radio" radio="true",BBC Asian Network
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_asian_network.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwCXp9h/sky-news-w1.png" group-title="International Radio" radio="true",Sky News Radio Australia
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
