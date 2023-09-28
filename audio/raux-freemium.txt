@@ -544,6 +544,9 @@ https://tunein.streamguys1.com/CNNi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="International Radio" radio="true",CNN International (AAC audio)
 https://live.amperwave.net/manifest/audacy-cnniaac-imc
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/ABC_Radio_Australia_logo.svg/220px-ABC_Radio_Australia_logo.svg.png" group-title="International Radio" radio="true",ABC Radio Australia
+https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2Q1gCR/5f3b43f0529439aac0159456.png" group-title="US Radio" radio="true",Fox News Radio
 https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc
 
