@@ -1342,6 +1342,27 @@ https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/master.m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Q82S6DFmcT.png" group-title="Australia Radio" radio="true",ABC Triple J
 https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k38rs5stkvay.png" group-title="Australia Radio" radio="true",SBS Radio 1
+https://sbs-ice.streamguys1.com/sbs1
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tsgmmse7722v.png" group-title="Australia Radio" radio="true",SBS Radio 2
+https://sbs-ice.streamguys1.com/sbs2
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fxkaanrznucg.png" group-title="Australia Radio" radio="true",SBS Radio 3
+https://sbs-ice.streamguys1.com/sbs3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4f3nsjbcdzgn.jpeg" group-title="Australia Radio" radio="true",SBS Arabic 24
+https://sbs-ice.streamguys1.com/sbs-arabic
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EZdmrZUSrZ.jpg" group-title="Australia Radio" radio="true",SBS Chill
+https://sbs-ice.streamguys1.com/sbschill
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4pvuszxwxdf6.png" group-title="Australia Radio" radio="true",SBS PopDesi
+https://sbs-ice.streamguys1.com/sbs-popdesi
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/d4atdtzsmrkw.png" group-title="Australia Radio" radio="true",SBS PopAsia
+https://sbs-ice.streamguys1.com/sbs-popasia
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwCXp9h/sky-news-w1.png" group-title="Australia Radio" radio="true",Sky News Radio Australia
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
 
@@ -1357,8 +1378,17 @@ https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pwRJNaeGXT.png" group-title="Australia Radio" radio="true",2SM Sydney
 http://s2.viastreaming.net:7100/stream
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxg7lydfj6tc/a03bb302-c2be-4f60-81b2-145a24c62edc/09d58d340e1ffe74f3fdcf133aca2df7/0001-2day.png?w=320&h=320&fit=fill" group-title="Australia Radio" radio="true",2DayFM Sydney
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/WSFM_Sydney_Gold.png" group-title="Australia Radio" radio="true",Nova 96.9 Sydney
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/WSFM_Sydney_Gold.png" group-title="Australia Radio" radio="true",101.7 WSFM Sydney
+https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxg7lydfj6tc/a03bb302-c2be-4f60-81b2-145a24c62edc/09d58d340e1ffe74f3fdcf133aca2df7/0001-2day.png?w=320&h=320&fit=fill" group-title="Australia Radio" radio="true",2DayFM 104.1 Sydney
 https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxg7lydfj6tc/7afc965e-6c98-4c7a-97f9-9e72d95b08b1/57179ce0a99664c01e07df69c9134f80/0058-2mmm.png?w=320&h=320&fit=fill" group-title="Australia Radio" radio="true",Triple M 104.9 Sydney
+https://wz2liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/KIIS_1065_logo.svg/220px-KIIS_1065_logo.svg.png" group-title="Australia Radio" radio="true",KIIS 1065 Sydney
 https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.aac
