@@ -1306,7 +1306,7 @@ https://media-ssl.musicradio.com/HeartUK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Gold_%28Radio%29_logo.png/220px-Gold_%28Radio%29_logo.png" group-title="UK Radio" radio="true",Gold
 https://media-ssl.musicradio.com/Gold
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/220px-Classic_FM_logo.svg.png" group-title="UK Radio" radio="true",Smooth Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SMOOTH-LARGE.png/220px-SMOOTH-LARGE.png" group-title="UK Radio" radio="true",Smooth Radio
 https://ice-sov.musicradio.com/SmoothUKMP3
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3pTepgqLVc.png" group-title="UK Radio" radio="true",Radio X
@@ -1314,6 +1314,24 @@ https://media-ssl.musicradio.com/RadioXLondon
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/UaJTkPUjS2.png" group-title="UK Radio" radio="true",Absolute Radio
 http://tx.planetradio.co.uk/http_live_bauer.php?i=absoluteradiohigh.aac&awparams=loggedin:false&amsparams=playerid:BMUK_tunein
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GHR_logo.png/220px-GHR_logo.png" group-title="UK Radio" radio="true",Greatest Hits Radio
+https://tx.planetradio.co.uk/http_live_bauer.php?i=net2national.aac&awparams=loggedin:false&amsparams=playerid:BMUK_tunein
+
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/352.svg?ver=1527763166" group-title="UK Radio" radio="true",Hits Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
+
+#EXTINF:-1 tvg-logo="https://ukradiolive.com/public/uploads/radio_img/jazz-fm/play_250_250.jpg" group-title="UK Radio" radio="true",Jazz FM
+https://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Kiss_Logo_Purple_2020.png/220px-Kiss_Logo_Purple_2020.png" group-title="UK Radio" radio="true",KISS Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kerrang_Radio_Logo_2019.png/220px-Kerrang_Radio_Logo_2019.png" group-title="UK Radio" radio="true",Kerrang!
+https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Magic_Radio.png/150px-Magic_Radio.png" group-title="UK Radio" radio="true",Magic Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/magic1054.aac
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/22yeCk65a6.jpg" group-title="UK Radio" radio="true",Talksport
 https://radio.talksport.com/stream
@@ -1378,7 +1396,7 @@ https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pwRJNaeGXT.png" group-title="Australia Radio" radio="true",2SM Sydney
 http://s2.viastreaming.net:7100/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/WSFM_Sydney_Gold.png" group-title="Australia Radio" radio="true",Nova 96.9 Sydney
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8Xky3CSJBN.png" group-title="Australia Radio" radio="true",Nova 96.9 Sydney
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/WSFM_Sydney_Gold.png" group-title="Australia Radio" radio="true",101.7 WSFM Sydney

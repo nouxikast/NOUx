@@ -1321,6 +1321,9 @@ https://tx.planetradio.co.uk/http_live_bauer.php?i=net2national.aac&awparams=log
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/352.svg?ver=1527763166" group-title="UK Radio" radio="true",Hits Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
 
+#EXTINF:-1 tvg-logo="https://ukradiolive.com/public/uploads/radio_img/jazz-fm/play_250_250.jpg" group-title="UK Radio" radio="true",Jazz FM
+https://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Kiss_Logo_Purple_2020.png/220px-Kiss_Logo_Purple_2020.png" group-title="UK Radio" radio="true",KISS Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
 
