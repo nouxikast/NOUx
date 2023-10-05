@@ -1367,7 +1367,7 @@ https://ice-sov.musicradio.com/SmoothUKMP3
 https://media-ssl.musicradio.com/RadioXLondon
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/UaJTkPUjS2.png" group-title="UK Radio" radio="true",Absolute Radio
-http://tx.planetradio.co.uk/http_live_bauer.php?i=absoluteradiohigh.aac&awparams=loggedin:false&amsparams=playerid:BMUK_tunein
+https://tx.planetradio.co.uk/http_live_bauer.php?i=absoluteradiohigh.aac&awparams=loggedin:false&amsparams=playerid:BMUK_tunein
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GHR_logo.png/220px-GHR_logo.png" group-title="UK Radio" radio="true",Greatest Hits Radio
 https://tx.planetradio.co.uk/http_live_bauer.php?i=net2national.aac&awparams=loggedin:false&amsparams=playerid:BMUK_tunein
@@ -1380,6 +1380,9 @@ https://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Kiss_Logo_Purple_2020.png/220px-Kiss_Logo_Purple_2020.png" group-title="UK Radio" radio="true",KISS Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Planet_Rock_Logo_UK.svg/220px-Planet_Rock_Logo_UK.svg.png" group-title="UK Radio" radio="true",Planet Rock
+https://edge-bauerall-01-gos2.sharp-stream.com/planetrock.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kerrang_Radio_Logo_2019.png/220px-Kerrang_Radio_Logo_2019.png" group-title="UK Radio" radio="true",Kerrang!
 https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
