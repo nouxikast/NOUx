@@ -1,6 +1,10 @@
-<!-- RADIO -->
-<!-- IF YOU'RE GOING TO LISTEN TO AUDACY-OWNED STATIONS AND SOME STATIONS OWNED BY CUMULUS AND EMMIS WITH THE "[GBLK]" (GEOBLOCK) TAG, USE VPN AND CHOOSE U.S. SERVER. -->
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pT69bY/rau-social1.png" group-title="*" radio="true",RAUx
+https://archive.org/download/offline-videos/Music-Interlude-Break-RAUx.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pT69bY/rau-social1.png" group-title="*" radio="true",IF YOU'RE GOING TO LISTEN TO AUDACY-OWNED STATIONS AND SOME STATIONS OWNED BY CUMULUS AND EMMIS WITH THE [GBLK] (GEOBLOCK) TAG, USE VPN AND CHOOSE U.S. SERVER.
+https://archive.org/download/offline-videos/Music-Interlude-Break-RAUx.mp3
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvFR1YB/raudio-juanfm-social0.png" group-title="Raudio Channels" radio="true",Raudio Juan FM
 https://stream.zeno.fm/cby0f3nyrzzuv
 
@@ -14,7 +18,7 @@ https://stream.zeno.fm/vsyae4e0rzzuv
 https://stream.zeno.fm/v0eouk6gimyvv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhvTKt7/raudio-jeepfm-social0.png" group-title="Raudio Channels" radio="true",Raudio JEEP FM
-https://stream.zeno.fm/pkbwgm92f78uv
+https://stream.zeno.fm/pqfuieivnh8tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NXPzT6/raudio-baifm-social0.png" group-title="Raudio Channels" radio="true",Raudio Bai FM
 https://stream.zeno.fm/h0h75pzhvzzuv
@@ -25,11 +29,11 @@ https://stream.zeno.fm/h1qd730s01zuv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzgwYvF/raudio-lyte-social0.png" group-title="Raudio Channels" radio="true",Raudio Lyte
 https://stream.zeno.fm/3gqax3dfq2zuv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WBcR9SB/raudio-kiix-social0.png" group-title="Raudio Channels" radio="true",Raudio KIIX
-https://stream.zeno.fm/s5eksc1fq2zuv
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZHtGjD/raudio-plus-social0.png" group-title="Raudio Channels" radio="true",Raudio Plus
 https://stream.zeno.fm/achfmxusa2zuv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WBcR9SB/raudio-kiix-social0.png" group-title="Raudio Channels" radio="true",Raudio KIIX
+https://stream.zeno.fm/s5eksc1fq2zuv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckbcrss/raudio-ten-social0.png" group-title="Raudio Channels" radio="true",Raudio Ten FM
 https://stream.zeno.fm/19pshy6hvzzuv
@@ -93,6 +97,9 @@ https://stream.zeno.fm/dm67e31apy8uv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pT69bY/rau-social1.png" group-title="Freemium Choice" radio="true",Raudio 2010s
 https://stream.zeno.fm/qznwryabpy8uv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pT69bY/rau-social1.png" group-title="Freemium Choice" radio="true",Raudio MNLSound
+https://stream.zeno.fm/pkbwgm92f78uv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Magic89.9_logo.gif/220px-Magic89.9_logo.gif" group-title="PH Radio" radio="true",Magic 89.9
 https://stream.zeno.fm/sh37pvfd938uv
