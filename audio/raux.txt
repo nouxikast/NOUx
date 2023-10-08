@@ -59,6 +59,24 @@ https://stream.zeno.fm/rnpcnfdfymzuv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMcM6JM/raudio-ezfm-social0.png" group-title="Raudio Channels" radio="true",Raudio EZFM
 https://stream.zeno.fm/vggfq32ck48uv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vHc25Z1/raudio-dsound-social0.png" group-title="Raudio Channels" radio="true",Raudio The Sound
+https://stream.zeno.fm/ms1qs6dkupbvv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4W2zt3z/raudio-indx-social0.png" group-title="Raudio Channels" radio="true",Raudio iNDX
+https://stream.zeno.fm/axputek5qy8uv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7n2xKZg/raudio-rnbr-social0.png" group-title="Raudio Channels" radio="true",Raudio Rhythm and Beats
+https://stream.zeno.fm/2t0sm5w9zmzuv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nczSwpj/raudio-soulfm-social0.png" group-title="Raudio Channels" radio="true",Raudio Soul FM
+https://stream.zeno.fm/skz9nq4oenwtv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSPkvC3/raudio-altx-social0.png" group-title="Raudio Channels" radio="true",Raudio ALTx
+https://stream.zeno.fm/q6ajegn25ratv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JssSdX7/raudio-rockxp-social0.png" group-title="Raudio Channels" radio="true",Raudio RockXP
+https://stream.zeno.fm/tipjvqbpmgotv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsdD76g/24sn-social0.png" group-title="Raudio Channels" radio="true",24SN
 https://stream.zeno.fm/2hyu6hv2bzzuv
 
