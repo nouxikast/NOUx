@@ -63,7 +63,7 @@ https://stream.zeno.fm/vggfq32ck48uv
 https://stream.zeno.fm/ms1qs6dkupbvv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4W2zt3z/raudio-indx-social0.png" group-title="Raudio Channels" radio="true",Raudio iNDX
-https://stream.zeno.fm/axputek5qy8uv
+https://stream.zeno.fm/cih6w5bkh3svv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7n2xKZg/raudio-rnbr-social0.png" group-title="Raudio Channels" radio="true",Raudio Rhythm and Beats
 https://stream.zeno.fm/2t0sm5w9zmzuv
