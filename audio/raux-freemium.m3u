@@ -632,6 +632,9 @@ https://stream.revma.ihrhls.com/zc5014
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-todaysmix.png" group-title="US Radio" radio="true",Today's Mix | iHeart
 https://stream.revma.ihrhls.com/zc4409
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-star.png" group-title="US Radio" radio="true",Star | iHeart
+https://stream.revma.ihrhls.com/zc7361
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-poprewind.png" group-title="US Radio" radio="true",Pop Rewind | iHeart
 https://stream.revma.ihrhls.com/zc9756
 
@@ -686,6 +689,9 @@ https://stream.revma.ihrhls.com/zc4426
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-numetal.png" group-title="US Radio" radio="true",Nu Metal | iHeart
 https://stream.revma.ihrhls.com/zc9483
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-thefeel.png" group-title="US Radio" radio="true",The Feel | iHeart
+https://stream.revma.ihrhls.com/zc9480
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-altradio.png" group-title="US Radio" radio="true",ALT Radio | iHeart
 https://stream.revma.ihrhls.com/zc4447
 
@@ -724,6 +730,9 @@ https://stream.revma.ihrhls.com/zc4717
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-bigclassichits.png" group-title="US Radio" radio="true",Big Classic Hits | iHeart
 https://stream.revma.ihrhls.com/zc4455
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-bigclassichits.png" group-title="US Radio" radio="true",Gen X Radio | iHeart
+https://stream.revma.ihrhls.com/zc5322
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-at40classic.png" group-title="US Radio" radio="true",Classic American Top 40 | iHeart
 https://stream.revma.ihrhls.com/zc6545
