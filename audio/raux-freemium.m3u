@@ -641,6 +641,9 @@ https://stream.revma.ihrhls.com/zc9756
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-popdrive.png" group-title="US Radio" radio="true",Pop Drive | iHeart
 https://stream.revma.ihrhls.com/zc7403
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-popcorn.png" group-title="US Radio" radio="true",Popcorn Radio | iHeart
+https://stream.revma.ihrhls.com/zc7445
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-nbcnewsradio.png" group-title="US Radio" radio="true",NBC News Radio | iHeart
 https://stream.revma.ihrhls.com/zc6043
 
