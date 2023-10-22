@@ -122,14 +122,14 @@ https://stream.zeno.fm/pkbwgm92f78uv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Magic89.9_logo.gif/220px-Magic89.9_logo.gif" group-title="PH Radio" radio="true",Magic 89.9
 https://stream.zeno.fm/sh37pvfd938uv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/99.5_Play_FM.png/200px-99.5_Play_FM.png" group-title="PH Radio" radio="true",99.5 Play FM
+https://richwel.serv00.net/twitcher.php?channel=995playfm&quality=audio_only
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jam883.png/220px-Jam883.png" group-title="PH Radio" radio="true",Jam 88.3
 https://richwel.serv00.net/twitcher.php?channel=jam883ph&quality=audio_only
 
 #EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/wave891-2023.png" group-title="PH Radio" radio="true",Wave 89.1
 https://richwel.serv00.net/twitcher.php?channel=wave891fm&quality=audio_only
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/99.5_Play_FM.png/200px-99.5_Play_FM.png" group-title="PH Radio" radio="true",99.5 Play FM
-https://richwel.serv00.net/twitcher.php?channel=995playfm&quality=audio_only
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Magic923.jpeg/190px-Magic923.jpeg" group-title="PH Radio" radio="true",Magic 92.3 Cebu
 http://203.82.37.242:8010/cbu923fm
