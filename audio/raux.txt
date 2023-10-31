@@ -26,6 +26,9 @@ https://stream.zeno.fm/h0h75pzhvzzuv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzgwYvF/raudio-lyte-social0.png" group-title="Raudio Channels" radio="true",Raudio Lyte
 https://stream.zeno.fm/3gqax3dfq2zuv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPHnwjp/raudio-lytetunes-social0.png" group-title="Raudio Channels" radio="true",Raudio Lyte Tunes
+https://stream.zeno.fm/qtfuv7x7icquv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dp5C40d/raudio-htz-social0.png" group-title="Raudio Channels" radio="true",Raudio HTZ
 https://stream.zeno.fm/h1qd730s01zuv
 
@@ -33,7 +36,10 @@ https://stream.zeno.fm/h1qd730s01zuv
 https://stream.zeno.fm/achfmxusa2zuv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBcR9SB/raudio-kiix-social0.png" group-title="Raudio Channels" radio="true",Raudio KIIX
-https://stream.zeno.fm/s5eksc1fq2zuv
+https://stream.zeno.fm/w12n054b468uv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W2Rw46C/raudio-mixx-social0.png" group-title="Raudio Channels" radio="true",Raudio MIXX
+https://stream.zeno.fm/zkcou6tss6ouv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckbcrss/raudio-ten-social0.png" group-title="Raudio Channels" radio="true",Raudio Ten FM
 https://stream.zeno.fm/19pshy6hvzzuv
