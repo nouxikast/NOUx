@@ -824,6 +824,9 @@ https://stream.revma.ihrhls.com/zc5953
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-trancid.png" group-title="US Radio" radio="true",Trancid (Trance) | iHeart
 https://stream.revma.ihrhls.com/zc5144
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-halloween.png" group-title="US Radio" radio="true",Halloween Radio | iHeart
+https://stream.revma.ihrhls.com/zc7001
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-christmas.png" group-title="US Radio" radio="true",iHeartChristmas | iHeart
 https://stream.revma.ihrhls.com/zc4596
 
