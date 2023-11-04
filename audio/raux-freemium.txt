@@ -401,6 +401,9 @@ https://stream.zeno.fm/da8rp3mz8vzuv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VCtfWfG/DZTP.jpg" group-title="PH Radio" radio="true",DZTP 893 - Radyo Tirad Pass
 https://stream.zeno.fm/qe40zt70kv8uv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j829wVs/kissfm-goa.jpg" group-title="PH Radio" radio="true",103.7 Kiss FM Goa
+https://securestreams7.autopo.st/?uri=http://172.105.216.148:8040/radio.mp3
+
 #EXTINF:-1 tvg-logo="https://tunein.rpnradio.com/images/banners/baguio_b.png" group-title="PH Radio" radio="true",RPN Radyo Ronda Baguio
 https://dzbs-rpnradio.radioca.st/stream
 
