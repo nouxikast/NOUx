@@ -734,6 +734,9 @@ https://stream.revma.ihrhls.com/zc9003
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-rocknation.png" group-title="US Radio" radio="true",Rock Nation | iHeart
 https://stream.revma.ihrhls.com/zc4443
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-rockdrive.png" group-title="US Radio" radio="true",Rock Drive | iHeart
+https://stream.revma.ihrhls.com/zc7402
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-classicrock.png" group-title="US Radio" radio="true",Classic Rock | iHeart
 https://stream.revma.ihrhls.com/zc4426
 
@@ -748,6 +751,15 @@ https://stream.revma.ihrhls.com/zc9483
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-thefeel.png" group-title="US Radio" radio="true",The Feel (Emo Rock) | iHeart
 https://stream.revma.ihrhls.com/zc9480
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-punktacos.png" group-title="US Radio" radio="true",Punk Tacos (Punk Rock) | iHeart
+https://stream.revma.ihrhls.com/zc6954
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-jambands.png" group-title="US Radio" radio="true",Jam Bands | iHeart
+https://stream.revma.ihrhls.com/zc7278
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-fmj.png" group-title="US Radio" radio="true",Full Metal Jackie (Metal and Hard Rock) | iHeart
+https://stream.revma.ihrhls.com/zc6225
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-70srock.png" group-title="US Radio" radio="true",70s Rock Ride | iHeart
 https://stream.revma.ihrhls.com/zc6803
@@ -775,6 +787,9 @@ https://stream.revma.ihrhls.com/zc7727
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-indieradio.png" group-title="US Radio" radio="true",Indie Radio | iHeart
 https://stream.revma.ihrhls.com/zc7189
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-freeform.png" group-title="US Radio" radio="true",Freeform Radio | iHeart
+https://stream.revma.ihrhls.com/zc9719
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-smoothjazz.png" group-title="US Radio" radio="true",iHeart Smooth Jazz | iHeart
 https://stream.revma.ihrhls.com/zc4242
@@ -815,6 +830,9 @@ https://stream.revma.ihrhls.com/zc6936
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-realoldies.png" group-title="US Radio" radio="true",Real Oldies | iHeart
 https://stream.revma.ihrhls.com/zc4717
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-coololdies.png" group-title="US Radio" radio="true",Cool Oldies | iHeart
+https://stream.revma.ihrhls.com/zc4439
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-bigclassichits.png" group-title="US Radio" radio="true",Big Classic Hits | iHeart
 https://stream.revma.ihrhls.com/zc4455
 
@@ -845,17 +863,41 @@ https://stream.revma.ihrhls.com/zc6850
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-10s.png" group-title="US Radio" radio="true",iHeart10s (2010s) | iHeart
 https://stream.revma.ihrhls.com/zc8478
 
-#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-rumba.png" group-title="US Radio" radio="true",Rumba (Spanish) | iHeart
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-rumba.png" group-title="US Radio" radio="true",Rumba (Spanish CHR) | iHeart
 https://stream.revma.ihrhls.com/zc4451
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-lapreciosa.png" group-title="US Radio" radio="true",La Preciosa (Spanish AC) | iHeart
+https://stream.revma.ihrhls.com/zc8624
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-beso.png" group-title="US Radio" radio="true",Beso | iHeart
+https://stream.revma.ihrhls.com/zc7193
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-reggaeton.png" group-title="US Radio" radio="true",Reggaeton Vieja Escuela | iHeart
+https://stream.revma.ihrhls.com/zc7427
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-salsa.png" group-title="US Radio" radio="true",Salsa Bembe | iHeart
+https://stream.revma.ihrhls.com/zc7192
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-elpatron.png" group-title="US Radio" radio="true",El Patron (Regional Mexican) | iHeart
+https://stream.revma.ihrhls.com/zc7004
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-tejano.png" group-title="US Radio" radio="true",Radio Tejano | iHeart
+https://stream.revma.ihrhls.com/zc9622
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-fiestalatina.png" group-title="US Radio" radio="true",iHeart Fiesta Latina | iHeart
 https://stream.revma.ihrhls.com/zc7004
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-up.png" group-title="US Radio" radio="true",Up! (Contemporary Christian) | iHeart
 https://stream.revma.ihrhls.com/zc7203
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-hallelujah.png" group-title="US Radio" radio="true",Hallelujah (Gospel/Inspirational) | iHeart
+https://stream.revma.ihrhls.com/zc7005
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-classical.png" group-title="US Radio" radio="true",iHeartClassical | iHeart
 https://stream.revma.ihrhls.com/zc6377
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-spa.png" group-title="US Radio" radio="true",Spa Radio | iHeart
+https://stream.revma.ihrhls.com/zc7248
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-country.png" group-title="US Radio" radio="true",iHeartCountry | iHeart
 https://stream.revma.ihrhls.com/zc4418
