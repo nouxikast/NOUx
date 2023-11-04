@@ -668,6 +668,12 @@ https://stream.revma.ihrhls.com/zc8681
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-sunnyradio.png" group-title="US Radio" radio="true",Sunny Radio | iHeart
 https://stream.revma.ihrhls.com/zc5014
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-breeze.png" group-title="US Radio" radio="true",The Breeze | iHeart
+https://stream.revma.ihrhls.com/zc8143
+
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-delilah.png" group-title="US Radio" radio="true",Delilah | iHeart
+https://stream.revma.ihrhls.com/zc4846
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-todaysmix.png" group-title="US Radio" radio="true",Today's Mix | iHeart
 https://stream.revma.ihrhls.com/zc4409
 
