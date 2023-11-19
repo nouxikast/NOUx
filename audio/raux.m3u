@@ -987,6 +987,9 @@ https://stream.revma.ihrhls.com/zc4601
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-christmasjazz.png" group-title="US Radio" radio="true",Christmas Jazz | iHeart
 https://stream.revma.ihrhls.com/zc7251
 
+#EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-holidayseason.png" group-title="US Radio" radio="true",Holiday Season | iHeart
+https://stream.revma.ihrhls.com/zc9608
+
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-jingleball.png" group-title="US Radio" radio="true",Jingle Ball Radio | iHeart
 https://stream.revma.ihrhls.com/zc9165
 
