@@ -144,7 +144,7 @@ http://203.82.37.242:8010/cbu923fm
 http://203.82.37.242:8010/dvo891fm
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DZRH_logo_2021.png/250px-DZRH_logo_2021.png" group-title="PH Radio" radio="true",DZRH
-https://a1.asurahosting.com:9410/radio.mp3
+https://a3.asurahosting.com:6910/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="PH Radio" radio="true",Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
@@ -166,6 +166,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/EASYROCK_MNLAA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin
 https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/radyo_natin
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Visayas
+https://visayas.radyonatinfm.com:8000/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin Mindanao
+https://mindanao.radyonatinfm.com:8000/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Cebu
 http://listen.shoutcast.com/dyrccebuaksyonradyo648khz
