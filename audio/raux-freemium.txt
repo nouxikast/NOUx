@@ -1491,6 +1491,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFMAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/WNKI_WINK_106_logo.png/264px-WNKI_WINK_106_logo.png" group-title="US Radio" radio="true",Wink 106 | Corning, NY
 http://ice23.securenetsystems.net/WINK106
 
+#EXTINF:-1 tvg-logo="https://pwaimg.listenlive.co/WIBQFM_886621_config_station_logo_image_1487956620.png" group-title="US Radio" radio="true",WIBQ | Terre Haute, Indiana
+https://playerservices.streamtheworld.com/api/livestream-redirect/WIBQAMAAC.aac
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Hitz_104.9_KRCZ.jpg" group-title="US Radio" radio="true",Hitz 104.9 | Visalia, CA
 https://live.wostreaming.net/direct/momentum-kcrzfmaac-ibc2
 
