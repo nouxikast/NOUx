@@ -462,7 +462,7 @@ https://de3.amfmph.com/ssl/fmrtacloban?mp=/stream
 https://securestreams7.autopo.st/?uri=http://de3.amfmph.com:8715/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/963wrock_DYRK.png/revision/latest/scale-to-width-down/300?cb=20210616100408" group-title="PH Radio" radio="true",WRocK
-https://securestreams7.autopo.st/?uri=http://wrockceb-iradiocebuph.radioca.st/stream
+https://air.doscast.com/proxy/wrockceb/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Y101FMcebu.png/220px-Y101FMcebu.png" group-title="PH Radio" radio="true",Y101
 https://live.wostreaming.net/direct/y101fm-y101fmaac-ibc1
