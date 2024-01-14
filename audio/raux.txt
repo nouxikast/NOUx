@@ -182,6 +182,9 @@ https://securestreams7.autopo.st/?uri=http://ph-icecast-win.eradioportal.com:800
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Bacolod
 https://stream.zeno.fm/2hkxtfn8gkeuv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Tacloban
+https://fr1.amfmph.com:8203/stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Dagupan
 https://loveradiodagupan.radioca.st/stream
 
@@ -455,6 +458,21 @@ http://122.3.31.246:88/broadwave.mp3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/9/92/RW_95.1_FM_Pampanga.jpg/revision/latest/scale-to-width-down/300?cb=20200820091358" group-title="PH Radio" radio="true",RW 95.1
 https://securestreams7.autopo.st/?uri=http://sg-icecast.eradioportal.com:8000/rwluzon
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Logo-sbr3.PNG/220px-Logo-sbr3.PNG" group-title="PH Radio" radio="true",89.5 Subic Bay Radio
+https://securestreams7.autopo.st/?uri=http://143.44.245.11:8080/895subicbay.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2KzjvBC/dzgb-logo.png" group-title="PH Radio" radio="true",DZGB Legazpi
+https://s1.reliastream.com/proxy/pbnbroad?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3v15sz/ok-fm-legazpi-logo.png" group-title="PH Radio" radio="true",OKFM Legazpi
+https://server10.reliastream.com/proxy/pbnbroa6?mp=/xstream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6cB1f/ok-fm-naga-logo.png" group-title="PH Radio" radio="true",OKFM Naga
+https://s6.reliastream.com/proxy/jolocs08?mp=/;
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JBjT3zW/ok-fm-sorsogon-logo.png" group-title="PH Radio" radio="true",OKFM Sorsogon
+https://s3.reliastream.com/proxy/jolocs03?mp=/;
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Philippines
 https://us2.amfmph.com/ssl/fmr1?mp=/stream
 
@@ -463,6 +481,9 @@ https://de3.amfmph.com/ssl/fmrtacloban?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Baguio
 https://securestreams7.autopo.st/?uri=http://de3.amfmph.com:8715/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KpuSYDTjyY.jpg group-title="PH Radio" radio="true",RMN Cebu
+https://de3.amfmph.com/proxy/rmncebu?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/963wrock_DYRK.png/revision/latest/scale-to-width-down/300?cb=20210616100408" group-title="PH Radio" radio="true",WRocK
 https://air.doscast.com/proxy/wrockceb/stream
@@ -538,6 +559,9 @@ https://edge.mixlr.com/channel/gtqpn
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pn1SccR/gv999-2022.png" group-title="PH Radio" radio="true",GVFM Batangas
 https://stream.zeno.fm/6r0z29bxy1zuv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxZJPfX/dreamradiotacloban.jpg" group-title="PH Radio" radio="true",Dream Radio Tacloban
+https://securestreams7.autopo.st/?uri=http://streamnavs.net:8133/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/99.9-Magnum-radio-logo.jpg/240px-99.9-Magnum-radio-logo.jpg" group-title="PH Radio" radio="true",Magnum Radyo CDO
 https://securestreams7.autopo.st/?uri=http://212.84.160.187:21059/;stream.mp3
