@@ -335,7 +335,7 @@ https://securestreams7.autopo.st/?uri=http://122.53.138.32:8000/dxfo.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eaglefm.jpg/220px-Eaglefm.jpg" group-title="PH Radio" radio="true",Eagle FM 95.5
 https://s5.radio.co/s49bbdfa2a/listen
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/1035KLite_newlogo.svg/320px-1035KLite_newlogo.svg.png" group-title="PH Radio" radio="true",103.5 K-Lite
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ALLRADIO_Logo_2024.svg/250px-ALLRADIO_Logo_2024.svg.png" group-title="PH Radio" radio="true",ALLRADIO 103.5
 https://securestreams7.autopo.st/?uri=http://103.36.17.18:8000/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/73/Brigada_News_FM_Logo_2022.png/revision/latest/scale-to-width-down/250?cb=20230611223320" group-title="PH Radio" radio="true",Brigada News National/Manila
@@ -473,14 +473,17 @@ https://s6.reliastream.com/proxy/jolocs08?mp=/;
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JBjT3zW/ok-fm-sorsogon-logo.png" group-title="PH Radio" radio="true",OKFM Sorsogon
 https://s3.reliastream.com/proxy/jolocs03?mp=/;
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Philippines
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FMRadio_Philippines.png/200px-FMRadio_Philippines.png" group-title="PH Radio" radio="true",FMRadio Philippines
 https://us2.amfmph.com/ssl/fmr1?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Tacloban
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FMRadio_Philippines.png/200px-FMRadio_Philippines.png" group-title="PH Radio" radio="true",FMRadio Tacloban
 https://de3.amfmph.com/ssl/fmrtacloban?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/FMR_Philippines_logo.png/revision/latest/scale-to-width-down/300?cb=20210616121501" group-title="PH Radio" radio="true",FMR Baguio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FMRadio_Philippines.png/200px-FMRadio_Philippines.png" group-title="PH Radio" radio="true",FMRadio Baguio
 https://securestreams7.autopo.st/?uri=http://de3.amfmph.com:8715/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FMRadio_Philippines.png/200px-FMRadio_Philippines.png" group-title="PH Radio" radio="true",FMR SkyRadio DavSur
+https://securestreams7.autopo.st/?uri=http://us1.amfmph.com:8819/stream
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KpuSYDTjyY.jpg group-title="PH Radio" radio="true",RMN Cebu
 https://de3.amfmph.com/proxy/rmncebu?mp=/stream
