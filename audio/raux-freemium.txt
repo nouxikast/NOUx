@@ -617,6 +617,15 @@ https://securestreams7.autopo.st/?uri=http://live.kiss102fmbohol.com:8000/kiss
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L01WJYh/f-C573bjs-400x400.jpg" group-title="PH Radio" radio="true",Bible Radio
 https://stream.radio.co/se9de95c10/listen
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DQEUTtRnck.jpg" group-title="PH Radio" radio="true",Big Sound FM 101.5 Cabanatuan
+https://securestreams7.autopo.st/?uri=http://bigsoundfm.com:8144/listen.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DQEUTtRnck.jpg" group-title="PH Radio" radio="true",Big Sound FM 95.9 Baguio
+https://securestreams7.autopo.st/?uri=http://162.220.162.10:8184/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DQEUTtRnck.jpg" group-title="PH Radio" radio="true",Big Sound FM 105.5 San Fernando, La Union
+https://securestreams7.autopo.st/?uri=http://162.220.162.10:8011/stream
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K2hHQG8/b1079-tacloban.jpg" group-title="PH Radio" radio="true",B107.9 Kaboses Radio Tacloban
 https://streamnavs.net:8147/stream
 
