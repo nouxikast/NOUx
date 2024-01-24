@@ -18,6 +18,9 @@ https://ytlive.phcnetwork.workers.dev/stream/senateofthephilippines/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/live/noux/prts2-logo.png" group-title="News",PRTS2 - Kamara
 https://ytlive.phcnetwork.workers.dev/stream/HouseofRepresentativesPH/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/rtvm.jpg" group-title="News",RTVM
+https://ytlive.phcnetwork.workers.dev/stream/radiotelevisionmalacanang/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
@@ -25,10 +28,13 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m
 https://ytlive.phcnetwork.workers.dev/stream/DZRHNewsTelevision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Radio_Mindanao_Network_%282014%29.png/220px-Radio_Mindanao_Network_%282014%29.png" group-title="News",RMN TV (DZXL 558)
-https://ytlive.phcnetwork.workers.dev/stream/dzxl5587/master.m3u8
+https://ytlive.phcnetwork.workers.dev/stream/dzxlnews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dVuMSdfgN7.png" group-title="News",DZME RadyoTV
 https://ythls.onrender.com/channel/UC5D7OLxnIxhKu2m0R85Ki9A.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/206px-ABS-CBN_%282013%29.svg.png" group-title="GenEnt",ABS-CBN Entertainment (YT)
+https://ytlive.phcnetwork.workers.dev/stream/abscbnentertainment/master.m3u8
 
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="Free to Air",PTV
 https://qn-10135-spc-qb-1-1.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(vb0ikD3rmZA2RvEN2UsfwAd4nLqHso-fEbwGziZPtsrj_574Cbh_7s3nenWOGS14)/dm/3/x5cr6b9/s/live-2.m3u8
@@ -51,8 +57,29 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="News",ABC News YouTube
+https://ytlive.phcnetwork.workers.dev/stream/ABCNews/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/10/cbsn-logo-vector.png" tvg-name="CBSN" group-title="News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/250px-CBS_News_logo_%282020%29.svg.png" group-title="News",CBS News YouTube
+https://ytlive.phcnetwork.workers.dev/stream/cbsnews/master.m3u8
+
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://2uf0hc1o8rpw1vv8k4e8o825-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2021/03/NBC-News-NBC-News-Now-Logo-400x349.png" group-title="News",NBC News Now
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NBC-News-Now.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/210px-NBC_News_%282023%29.svg.png" group-title="News",NBC News YouTube
+https://ytlive.phcnetwork.workers.dev/stream/nbcnews/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News YouTube
+https://ytlive.phcnetwork.workers.dev/stream/FoxNews/master.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png" tvg-name="LiveNOW from Fox" group-title="News",LiveNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png" group-title="News",LiveNOW from Fox (YouTube)
+https://ytlive.phcnetwork.workers.dev/stream/livenowfox/master.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.ibb.co/DwCXp9h/sky-news-w1.png" group-title="News",Sky News UK
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223&ads._fw_ifa_type=dpid&ads._fw_did=7721903e-a983-b931-2adf-8d5ba3059a7a&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=SkyNews&ads.csid=xumo_desktopweb_SkyNews_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=IAB12&ads._fw_content_language=en&ads._fw_content_genre=News&ads._fw_content_title=Sky%20News&ads._fw_content_rating=TV-PG&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951223&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.8.13&ads._fw_app_bundle=&ads._fw_app_store_url=
