@@ -94,7 +94,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d0009
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
 #EXTINF:-1 tvg-id="TYTNetwork.us" tvg-name="TYT Network" tvg-logo="https://i.ibb.co/Qn8WXNs/TYT-Network-white-variant.png" group-title="News",TYT Network
-https://tyt-samsungus.amagi.tv/playlist.m3u8	
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TYTNetwork.us" tvg-name="TYT Network" tvg-logo="https://i.ibb.co/Qn8WXNs/TYT-Network-white-variant.png" group-title="News",TYT Network YouTube
+https://ytlive.phcnetwork.workers.dev/stream/TheYoungTurks/master.m3u8	
 
 #EXTINF:-1 tvg-logo="https://salemnewschannel.com/wp-content/uploads/2022/01/Logo-White.png" group-title="News",Salem News Channel
 https://snc-ono.amagi.tv/playlist.m3u8
