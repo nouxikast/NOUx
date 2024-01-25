@@ -575,6 +575,33 @@ https://dwizmanila.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/979_Home_Radio_2017.png/250px-979_Home_Radio_2017.png" group-title="PH Radio" radio="true",Home Radio
 https://hrmanila.radioca.st/stream
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM Northern Luzon - 89.3 Dagupan
+https://dagupan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM South Luzon - 92.3 Legazpi
+https://legaspi.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM South Luzon - 95.1 Naga
+https://hrnaga.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM - 94.3 Palawan
+https://palawan.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM Western Visayas - 89.5 Iloilo
+https://hriloilo.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM Central Visayas - 106.7 Cebu
+https://hrcebu.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM Northern Mindanao - 93.5 Cagayan de Oro
+https://hrcdo.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM Southeastern Mindanao - 98.7 Davao
+https://hrdavao.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C29Wrbh/DWIZ-News-FM-Logo-2023.png" group-title="PH Radio" radio="true",DWIZ News FM Southern Mindanao - 98.3 GenSan
+https://hrgensan.radioca.st/stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/DZAS.svg/150px-DZAS.svg.png" group-title="PH Radio" radio="true",DZAS
 https://securestreams7.autopo.st/?uri=http://sg-icecast.eradioportal.com:8000/febc_dzas
 
