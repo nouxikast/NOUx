@@ -25,13 +25,13 @@ https://ytlive.phcnetwork.workers.dev/stream/radiotelevisionmalacanang/master.m3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DZRH_News_Television_Logo_%282021%29.jpg/250px-DZRH_News_Television_Logo_%282021%29.jpg" group-title="News",DZRH TV
-https://ytlive.phcnetwork.workers.dev/stream/DZRHNewsTelevision/master.m3u8
+https://ytlive.phcnetwork.workers.dev/stream/DZRHTV/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Radio_Mindanao_Network_%282014%29.png/220px-Radio_Mindanao_Network_%282014%29.png" group-title="News",RMN TV (DZXL 558)
 https://ytlive.phcnetwork.workers.dev/stream/dzxlnews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dVuMSdfgN7.png" group-title="News",DZME RadyoTV
-https://ythls.onrender.com/channel/UC5D7OLxnIxhKu2m0R85Ki9A.m3u8
+https://ytlive.phcnetwork.workers.dev/stream/dzmetv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/206px-ABS-CBN_%282013%29.svg.png" group-title="GenEnt",ABS-CBN Entertainment (YT)
 https://ytlive.phcnetwork.workers.dev/stream/abscbnentertainment/master.m3u8
