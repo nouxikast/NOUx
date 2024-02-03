@@ -132,16 +132,19 @@ https://stream.zeno.fm/sh37pvfd938uv
 https://richwel.serv00.net/twitcher.php?channel=995playfm&quality=audio_only
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jam883.png/220px-Jam883.png" group-title="PH Radio" radio="true",Jam 88.3
+https://securestreams7.autopo.st/?uri=http://icecast.eradioportal.com:8000/jam883
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jam883.png/220px-Jam883.png" group-title="PH Radio" radio="true",Jam 88.3 (Opt-2)
 https://richwel.serv00.net/twitcher.php?channel=jam883ph&quality=audio_only
 
 #EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/wave891-2023.png" group-title="PH Radio" radio="true",Wave 89.1
 https://richwel.serv00.net/twitcher.php?channel=wave891fm&quality=audio_only
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Magic923.jpeg/190px-Magic923.jpeg" group-title="PH Radio" radio="true",Magic 92.3 Cebu
-http://203.82.37.242:8010/cbu923fm
+https://securestreams7.autopo.st/?uri=http://203.82.37.242:8010/cbu923fm
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Magic891Davao.jpg/220px-Magic891Davao.jpg" group-title="PH Radio" radio="true",Magic 89.1 Davao
-http://203.82.37.242:8010/dvo891fm
+https://securestreams7.autopo.st/?uri=http://203.82.37.242:8010/dvo891fm
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DZRH_logo_2021.png/250px-DZRH_logo_2021.png" group-title="PH Radio" radio="true",DZRH
 https://a3.asurahosting.com:6910/radio.mp3
@@ -398,17 +401,74 @@ https://untv.mmdlive.lldns.net/untv/3e281fb9ce454da29d84b2f6b4df712d/laverdad.m3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/915winradio2014.jpeg/revision/latest/scale-to-width-down/200?cb=20200406033700" group-title="PH Radio" radio="true",Win Radio
 https://stream.zeno.fm/2ss1hgnu6hhvv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM (Bombo)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Manila
 https://stream.zeno.fm/69b1kf7q0y5tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Baguio
+https://stream.zeno.fm/ctbdentr0y5tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Dagupan
+https://stream.zeno.fm/4ttwgqgr0y5tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Iloilo
+https://stream.zeno.fm/sp7vkear0y5tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Bacolod
+https://stream.zeno.fm/4uhnmvfr0y5tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Cebu
+https://stream.zeno.fm/g98fs57q0y5tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Davao
+https://stream.zeno.fm/a35ztz9q0y5tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxMgVw/Star-Logo.png" group-title="PH Radio" radio="true",Star FM Zamboanga
+https://stream.zeno.fm/kp3z93ar0y5tv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Iloilo
 https://stream.zeno.fm/gzudz59nz9duv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Baguio
+https://stream.zeno.fm/651x4ms7vy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Dagupan
+https://stream.zeno.fm/kxdz9k81wy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Naga
+https://stream.zeno.fm/4byxf2w0xy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Bacolod
+https://stream.zeno.fm/gcvmu50zxy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Cebu
+https://stream.zeno.fm/q4f0ws6zxy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Tacloban
+https://stream.zeno.fm/23zf0dg0xy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Davao
+https://stream.zeno.fm/qmg32120xy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Gensan
+https://stream.zeno.fm/80my2n9zxy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo CDO
+https://stream.zeno.fm/cb9g7czzxy5tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="PH Radio" radio="true",Bombo Radyo Butuan
+https://stream.zeno.fm/4kvkb710xy5tv
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rrF9wAtD26.png" group-title="PH Radio" radio="true",Boracay Beach Radio 97.3
 https://ssl1.viastreaming.net:8390/;stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/DWWW_774_logo.png" group-title="PH Radio" radio="true",DWWW 774
 https://stream.zeno.fm/kc3cct89sxquv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Radyo-veritas-846-dzrv-logo.jpeg/220px-Radyo-veritas-846-dzrv-logo.jpeg" group-title="PH Radio" radio="true",Veritas 846
+https://securestreams7.autopo.st/?uri=http://icecast.eradioportal.com:8000/radyo-veritas-846
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dwxi1314.png/220px-Dwxi1314.png" group-title="PH Radio" radio="true",DWXI
+https://securestreams7.autopo.st/?uri=http://icecast.eradioportal.com:8000/dwxi-streaming
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ea/Radyo_Bandera_Network_Logo.png/revision/latest/scale-to-width-down/250?cb=20200927011432" group-title="PH Radio" radio="true",Radyo Bandera
 https://de3.amfmph.com:8546/high
@@ -452,7 +512,7 @@ https://dxkt-rpnradio.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://tunein.rpnradio.com/images/banners/zamboanga_b.png" group-title="PH Radio" radio="true",RPN Radyo Ronda Zamboanga
 https://dxxx-rpnradio.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/230px-TeleRadyo_Logo.svg.png" group-title="PH Radio" radio="true",TeleRadyo (audio)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/250px-TeleRadyo_Serbisyo_logo.svg.png" group-title="PH Radio" radio="true",TeleRadyo (audio)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DZMMAAC_48.aac
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/MOR_ENT_LOGO.png/revision/latest/scale-to-width-down/270?cb=20210429094722" group-title="PH Radio" radio="true",MOR
@@ -508,6 +568,9 @@ https://securestreams7.autopo.st/?uri=http://us1.amfmph.com:8819/stream
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KpuSYDTjyY.jpg" group-title="PH Radio" radio="true",RMN DYHP Cebu
 https://de3.amfmph.com/proxy/rmncebu?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x5BsqVtF77.png" group-title="PH Radio" radio="true",iFM Dagupan
+https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/ifm_dagupan
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gRgZCwp/DYXL-FM-Cebu.png" group-title="PH Radio" radio="true",iFM Cebu
 https://air.doscast.com/proxy/ifmcebu/stream
