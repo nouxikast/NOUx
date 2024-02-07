@@ -155,10 +155,10 @@ https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="PH Radio" radio="true",Love Radio (AAC)
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNLAAC.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes the Best
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/YesFMManila2024.png/250px-YesFMManila2024.png" group-title="PH Radio" radio="true",Yes FM
 https://s2.radio.co/sa85100da7/listen
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes the Best (AAC)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/YesFMManila2024.png/250px-YesFMManila2024.png" group-title="PH Radio" radio="true",Yes FM (AAC)
 https://playerservices.streamtheworld.com/api/livestream-redirect/YESTHEBEST_MNLAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg/250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png" group-title="PH Radio" radio="true",Easy Rock
@@ -177,13 +177,13 @@ https://visayas.radyonatinfm.com:8000/stream
 https://mindanao.radyonatinfm.com:8000/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Cebu
-http://listen.shoutcast.com/dyrccebuaksyonradyo648khz
+https://securestreams7.autopo.st/?uri=http://freeuk24.listen2myradio.com:6920/;stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Iloilo
 https://securestreams7.autopo.st/?uri=http://ph-icecast-win.eradioportal.com:8000/aksyon_iloilo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Bacolod
-https://stream.zeno.fm/2hkxtfn8gkeuv
+https://stream.zeno.fm/cba5cxy3hg8uv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Tacloban
 https://fr1.amfmph.com:8203/stream
@@ -239,25 +239,25 @@ https://loveradiobutuan.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Love_Radio_2021_logo.png/210px-Love_Radio_2021_logo.png" group-title="PH Radio" radio="true",Love Radio Zamboanga
 https://lovezamboanga.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Dagupan
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TMw98j/yesfmnetworkph-2024-logo.png" group-title="PH Radio" radio="true",Yes FM Dagupan
 https://yesfmdagupan.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Boracay
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TMw98j/yesfmnetworkph-2024-logo.png" group-title="PH Radio" radio="true",Yes FM Boracay
 https://yesfmboracay.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Cebu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TMw98j/yesfmnetworkph-2024-logo.png" group-title="PH Radio" radio="true",Yes FM Cebu
 https://yesfmcebu.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Dumaguete
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TMw98j/yesfmnetworkph-2024-logo.png" group-title="PH Radio" radio="true",Yes FM Dumaguete
 https://yesfmdumaguete.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Zamboanga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TMw98j/yesfmnetworkph-2024-logo.png" group-title="PH Radio" radio="true",Yes FM Zamboanga
 https://yesfmzamboanga.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best CDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TMw98j/yesfmnetworkph-2024-logo.png" group-title="PH Radio" radio="true",Yes FM CDO
 https://yesfmcdo.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/yesthebest-network.png" group-title="PH Radio" radio="true",Yes the Best Iligan
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TMw98j/yesfmnetworkph-2024-logo.png" group-title="PH Radio" radio="true",Yes FM Iligan
 https://yesfmiligan.radioca.st/stream
 
 #EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/easyrock-network.png" group-title="PH Radio" radio="true",Easy Rock Baguio
