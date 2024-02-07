@@ -180,7 +180,7 @@ https://mindanao.radyonatinfm.com:8000/stream
 https://securestreams7.autopo.st/?uri=http://freeuk24.listen2myradio.com:6920/;stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Iloilo
-https://securestreams7.autopo.st/?uri=http://ph-icecast-win.eradioportal.com:8000/aksyon_iloilo
+https://securestreams7.autopo.st/?uri=http://ph-icecast.eradioportal.com:8000/akyson_iloilo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VCzbmT/Aksyon-Radyo-trans-logo.png" group-title="PH Radio" radio="true",Aksyon Radyo Bacolod
 https://stream.zeno.fm/cba5cxy3hg8uv
