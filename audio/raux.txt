@@ -473,7 +473,7 @@ https://securestreams7.autopo.st/?uri=http://icecast.eradioportal.com:8000/dwxi-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ea/Radyo_Bandera_Network_Logo.png/revision/latest/scale-to-width-down/250?cb=20200927011432" group-title="PH Radio" radio="true",Radyo Bandera
 https://de3.amfmph.com:8546/high
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/1/12/97.7_Radyo_Bandera_Sweet_FM_Dumaguete.jpg/revision/latest/scale-to-width-down/250?cb=20210527084413" group-title="PH Radio" radio="true",Radyo Bandera Sweet FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6W5knj/k5newsfm.jpg" group-title="PH Radio" radio="true",K5 News FM
 https://us1.amfmph.com/ssl/sweetfmbacolod?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DZUP_1602.png/220px-DZUP_1602.png" group-title="PH Radio" radio="true",DZUP 1602 (UPD)
@@ -693,10 +693,13 @@ https://securestreams7.autopo.st/?uri=http://streamnavs.net:8133/stream
 https://securestreams7.autopo.st/?uri=http://212.84.160.187:21059/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/MemoRieS_FM_107.1_Baguio.jpg/150px-MemoRieS_FM_107.1_Baguio.jpg" group-title="PH Radio" radio="true",Memories FM Baguio
-https://securestreams7.autopo.st/?uri=http://199.195.194.140:8124/;stream
+https://server10.reliastream.com/proxy/primaxbr?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/MemoRieS_FM_89.9_Cebu.jpg/150px-MemoRieS_FM_89.9_Cebu.jpg" group-title="PH Radio" radio="true",Memories FM Cebu
-https://securestreams7.autopo.st/?uri=http://s5.reliastream.com:7134/stream
+https://s5.reliastream.com/proxy/broadtek?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G51V9HC/dxki-strongradio-cdo.png" group-title="PH Radio" radio="true",DXKI Strong Radio CDO
+https://s5.reliastream.com/proxy/bampldi1?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4gQzD8/dyrd.png" group-title="PH Radio" radio="true",DYRD Bohol
 https://securestreams7.autopo.st/?uri=http://live.dyrdam.com:8000/dyrdam
