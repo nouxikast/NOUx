@@ -227,3 +227,9 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="Movies",MovieSphere (HD)
 https://moviesphere-samsung-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="Religious",SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="News",SMNI News
+https://rumble.com/live-hls-dvr/4cys09/playlist.m3u8
