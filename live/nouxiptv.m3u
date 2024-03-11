@@ -135,8 +135,8 @@ http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="Live",Love Radio Manila (TV)
 https://ytlive.phcnetwork.workers.dev/stream/loveradiomanila/master.m3u8
 
-#EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="Live",Yes the Best Manila (TV)
-https://ytlive.phcnetwork.workers.dev/stream/yesthebestmanila/master.m3u8
+#EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/YesFMManila2024.png/250px-YesFMManila2024.png" group-title="Live",Yes FM Manila (TV)
+https://ytlive.phcnetwork.workers.dev/stream/yesfmmanila1011/master.m3u8
 
 #EXTINF:-1 tvg-id="()" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg/250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png" group-title="Live",Easy Rock Manila (TV)
 https://ytlive.phcnetwork.workers.dev/stream/easyrockmanila/master.m3u8
