@@ -579,7 +579,7 @@ https://air.doscast.com/proxy/ifmcebu/stream
 https://air.doscast.com/proxy/wrockceb/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Y101FMcebu.png/220px-Y101FMcebu.png" group-title="PH Radio" radio="true",Y101
-https://live.wostreaming.net/direct/y101fm-y101fmaac-ibc1
+https://live.amperwave.net/direct/y101fm-y101fmaac-ibc1
 
 #EXTINF:-1 tvg-logo="https://www.amfmph.com/wp-content/uploads/reinard/radyo-one-cebu-amfmph.png" group-title="PH Radio" radio="true",Radyo One Cebu
 https://de3.amfmph.com/ssl/onecebu?mp=/stream
@@ -771,7 +771,7 @@ https://live.amperwave.net/manifest/audacy-cnniaac-imc
 https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2Q1gCR/5f3b43f0529439aac0159456.png" group-title="US Radio" radio="true",Fox News Radio
-https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc
+https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/National_Public_Radio_logo.svg/200px-National_Public_Radio_logo.svg.png" group-title="US Radio" radio="true",NPR
 https://npr-ice.streamguys1.com/live.aac
@@ -804,7 +804,7 @@ https://tunein.streamguys1.com/progressivevoices
 https://stream.revma.ihrhls.com/zc4732
 
 #EXTINF:-1 tvg-logo="https://github.com/nouxikast/NOUx/raw/feed/img/espn-radio.png" group-title="US Radio" radio="true",ESPN Radio
-https://live.wostreaming.net/direct/espn-network-48
+https://live.amperwave.net/direct/espn-network-48
 
 #EXTINF:-1 tvg-logo="https://nouxikast.serv00.net/audio/img/iheart-hitnation.png" group-title="US Radio" radio="true",Hit Nation | iHeart
 https://stream.revma.ihrhls.com/zc4422
@@ -1609,7 +1609,7 @@ http://ice23.securenetsystems.net/WINK106
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIBQFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Hitz_104.9_KRCZ.jpg" group-title="US Radio" radio="true",Hitz 104.9 | Visalia, CA
-https://live.wostreaming.net/direct/momentum-kcrzfmaac-ibc2
+https://live.amperwave.net/direct/momentum-kcrzfmaac-ibc2
 
 #EXTINF:-1 tvg-logo="https://salemmedia.com/wp-content/uploads/2019/10/amfmKHNR_Answer_hires.jpg" group-title="US Radio" radio="true",The Answer AM690/FM94.3 | Hawaii
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC.aac
