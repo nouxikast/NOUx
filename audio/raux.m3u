@@ -674,6 +674,9 @@ https://securestreams7.autopo.st/?uri=http://sg-icecast.eradioportal.com:8000/fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0SLCsQ/Saved-Radio-logo-300x300.png" group-title="PH Radio" radio="true",Saved Radio
 https://securestreams7.autopo.st/?uri=http://s7.voscast.com:9758/stream
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtGbyb9/The-Edge-Radio-Network-PH.png" group-title="PH Radio" radio="true",The Edge Radio
+https://stream.rcast.net/69951
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8fcqX3/resize-500x500-v-1.png" group-title="PH Radio" radio="true",Life Radio PH
 https://stream.zeno.fm/xhhr7q4kgg0uv
 
