@@ -581,6 +581,9 @@ https://air.doscast.com/proxy/wrockceb/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Y101FMcebu.png/220px-Y101FMcebu.png" group-title="PH Radio" radio="true",Y101
 https://live.amperwave.net/direct/y101fm-y101fmaac-ibc1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Y101FMcebu.png/220px-Y101FMcebu.png" group-title="PH Radio" radio="true",Y101 (Opt-2)
+https://richwel.serv00.net/twitcher.php?channel=y101fmcebu&quality=audio_only
+
 #EXTINF:-1 tvg-logo="https://www.amfmph.com/wp-content/uploads/reinard/radyo-one-cebu-amfmph.png" group-title="PH Radio" radio="true",Radyo One Cebu
 https://de3.amfmph.com/ssl/onecebu?mp=/stream
 
